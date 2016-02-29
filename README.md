@@ -1,4 +1,4 @@
-
+![Central Park](https://raw.githubusercontent.com/jjmhtp/Postkarte/master/2016-02-20.16.23.43.jpg)
 # Postkarte aus der Neuen Welt
 
 Liebe Omis, lieber Opi, lieber Opa und
