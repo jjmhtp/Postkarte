@@ -39,13 +39,45 @@ Aber zu den Museen später mehr!
 * *27.2., 14 Uhr*  Sinkflug  Festland, Ecuador!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
+# Erste Woche in Quito
 
+Wir waren Vormittags in der Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
+
+# Zweite und dritte Woche
+
+Ich habe recht weit im Norden im Viertel San Carlos – Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei Wilma und Jaime Enrique Esparza Rojas gewohnt.
+
+Ab Montag im Hospital Carlos Andrade Marín und im Hospital de los Valles.
+
+# Zusammen im Hospital Carlos Andrade Marín und Einzug in Armero
+
+Nach der zweiten Adresse nun in einem dritten wunderbar über der Stadt gelegenen Domizil mit dem Beginn der Semana Santa.
+
+24.3., 18 Uhr: Procesión de las luces
+
+# Einiges Essbares in Ecuador
+
+* pan de piña
+* empanada de viento
+* arepa
+* yuca
+* mote
+* morocho con leche
+* tomate de árbol
+* [taxo](https://www.wikidata.org/wiki/Q415622)
+* [choclo](https://www.wikidata.org/wiki/Q11575)
 
 
 <!--🇴
 
+Smog
 
-PS: Insbesondere noch für Mama und alle aus welchen Gründen auch immer an Adressen Interessierten: Meine Adresse in Quito wird ab Freitag oder Samstag Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador im Viertel San Carlos (nördlich von Quito) bei Wilma und Jaime Enrique Esparza Rojas sein. Ich werde ab Montag im Hospital Carlos Andrade Marín arbeiten. Bis einschließlich Samstag ist auch die Banana Spanish School Quito mein Hauptkontaktpunkt. Bis zum Wochenende werden auch Julian und María in Quito sein, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
+# Ernährung NYC
+* Supermarkt: Bagels
+* Abendessen mit den Vernons
+* Rutgers Mensa
+* arabischer Stand
+
 
 
 furchtbar nette Leute: schon im Hinzug der Schaffner,
