@@ -39,6 +39,40 @@ Aber zu den Museen später mehr!
 * *27.2., 14 Uhr*  Sinkflug  Festland, Ecuador!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
+
+# La Procesión de las luces
+
+Gestern haben wir an der Procesión de las luces teilgenommen, herrlich, aber in
+der Bedeutung einiger Teile ein wenig rätselhaft:
+
+![](https://dl.dropbox.com/s/a81k4ts2uddfjtr/2016-03-24%2019.20.24.jpg)
+Warum es schon am Jueves Santo einen toten Christus gibt, haben wir nicht ganz verstanden. Zugleich wurden auch drei Kreuze getragen, wohl ein [panoptisches Narrativ](https://en.wikipedia.org/wiki/Narrative_art#Panoptic_narrative). Vor ihm werden Dornenkrone, Nägel und Hammer getragen.
+
+![](https://dl.dropbox.com/s/q6aywmmgfrm3pap/2016-03-24%2019.23.59.jpg)
+
+![](https://dl.dropbox.com/s/6r6gqkioe07stis/2016-03-24%2019.24.53.jpg)
+Weiter vorn im Zug gibt es eine ganze Reihe von Marien. Um was für Marien es sich handelt, ist nicht ganz klar. Bernhard meint in einer die Virgen de Guápulo erkannt zu haben, Maria, die in einer Marienerscheinung im Städtchen und heutigen Stadtteil Guápulo sichtbar wurde und hier sich seither Verehrung erfreut.
+
+![](https://dl.dropbox.com/s/8lrifcec4f9mqv8/2016-03-24%2019.25.03.jpg)
+Vor dem Leichnahm eine ganze Schar junger Veronikas.
+
+![](https://dl.dropbox.com/s/okp6hbo04vwdfl9/2016-03-24%2019.25.25.jpg)
+Vorbeizug an der [Iglesia de la Compañía de Jesús](https://en.wikipedia.org/wiki/Compañía_de_Jesús,_Quito).
+
+![](https://dl.dropbox.com/s/fw8axmvsvkzsize/2016-03-24%2019.27.23.jpg)
+
+![](https://dl.dropbox.com/s/jvnkeeuqmx7y79l/2016-03-24%2019.29.11.jpg)
+Noch eine Maria.
+
+![](https://dl.dropbox.com/s/kyp1m76hvlfgfb7/2016-03-24%2019.30.29.jpg)
+Und noch eine mit merkwürdigen Pyramidengestalten.
+
+
+
+
+<!--
+
+
 # Erste Woche in Quito
 
 Wir waren Vormittags in der Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
@@ -68,9 +102,10 @@ Nach der zweiten Adresse nun in einem dritten wunderbar über der Stadt gelegene
 * [choclo](https://www.wikidata.org/wiki/Q11575)
 
 
-<!--🇴
 
-Smog
+
+
+Smog -> Pinguecula
 
 # Ernährung NYC
 * Supermarkt: Bagels
@@ -121,3 +156,10 @@ je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem
 * Lit.-Differentiation, wie heißt das Metadaten-Ding?
 * add Flugmetadaten, …
 -->
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
+  </a>
+</p>
