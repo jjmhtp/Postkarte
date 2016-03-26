@@ -40,7 +40,8 @@ Aber zu den Museen später mehr!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
 
-# La Procesión de las luces
+# Prozessionen in der Semana Santa
+## Procesión de las luces
 
 Gestern haben wir an der Procesión de las luces teilgenommen, herrlich, aber in
 der Bedeutung einiger Teile ein wenig rätselhaft:
@@ -67,12 +68,60 @@ Noch eine Maria.
 ![](https://dl.dropbox.com/s/kyp1m76hvlfgfb7/2016-03-24%2019.30.29.jpg)
 Und noch eine mit merkwürdigen Pyramidengestalten.
 
+## Viernes Santo
 
+Karfreitag, der Viernes Santo, scheint Höhepunkt der Prozessionen zu sein. In einem Vorort gab es eine Procesión de los Diablos, die größte ist die Procesión Jesús del Gran Poder im historischen Zentrum, in Trauer endet der Tag mit der Procesión del Silencio.
+
+Die Procesión Jesús del Gran Poder in Quito ist eine Prozession, die seit _langem_ in Quito stattfindet.
+
+Es gibt allerlei Figuren, so
+* die [Nazarenos](https://es.wikipedia.org/wiki/Nazareno).
+
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022595326/in/album-72157666406097825/" title="2016-03-25 13.20.15"><img src="https://farm2.staticflickr.com/1698/26022595326_ff529a668b_z.jpg" width="640" height="480" alt="2016-03-25 13.20.15"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Ein Stangengebundener.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982148641/in/album-72157666406097825/" title="2016-03-25 13.22.00"><img src="https://farm2.staticflickr.com/1505/25982148641_9d130bdcd8_z.jpg" width="640" height="480" alt="2016-03-25 13.22.00"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Kinder mit Kreuz.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775648730/in/album-72157666406097825/" title="2016-03-25 13.32.06"><img src="https://farm2.staticflickr.com/1705/25775648730_b149ebb078_z.jpg" width="640" height="480" alt="2016-03-25 13.32.06"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+JESUS TE AMO.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443726164/in/album-72157666406097825/" title="2016-03-25 13.34.06"><img src="https://farm2.staticflickr.com/1715/25443726164_cb7c29dea5_z.jpg" width="640" height="480" alt="2016-03-25 13.34.06"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Gepeinigter Jesus.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982117561/in/album-72157666406097825/" title="2016-03-25 13.35.16"><img src="https://farm2.staticflickr.com/1556/25982117561_4c7311087b_z.jpg" width="640" height="480" alt="2016-03-25 13.35.16"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Nazareno-Zug.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443695994/in/album-72157666406097825/" title="2016-03-25 13.42.00"><img src="https://farm2.staticflickr.com/1530/25443695994_c6aa3f07a1_z.jpg" width="640" height="480" alt="2016-03-25 13.42.00"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Gestürzter Jesus.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25955921412/in/album-72157666406097825/" title="2016-03-25 13.46.18"><img src="https://farm2.staticflickr.com/1605/25955921412_b460d3cdd3_z.jpg" width="640" height="480" alt="2016-03-25 13.46.18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Rollstuhl.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Knabe mit Stange.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022500866/in/album-72157666406097825/" title="2016-03-25 13.52.51"><img src="https://farm2.staticflickr.com/1640/26022500866_558d04cd17_z.jpg" width="480" height="640" alt="2016-03-25 13.52.51"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Prothese.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022491876/in/album-72157666406097825/" title="2016-03-25 13.58.09"><img src="https://farm2.staticflickr.com/1696/26022491876_cb17a0887c_z.jpg" width="640" height="480" alt="2016-03-25 13.58.09"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Frauen.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25445824883/in/album-72157666406097825/" title="2016-03-25 13.58.38"><img src="https://farm2.staticflickr.com/1540/25445824883_6931efe236_z.jpg" width="640" height="257" alt="2016-03-25 13.58.38"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Panorama.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775483030/in/album-72157666406097825/" title="2016-03-25 14.50.01"><img src="https://farm2.staticflickr.com/1718/25775483030_7039102f9f_z.jpg" width="640" height="480" alt="2016-03-25 14.50.01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+San Francisco mit Tauben.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443546634/in/album-72157666406097825/" title="2016-03-25 15.07.19"><img src="https://farm2.staticflickr.com/1652/25443546634_4595dbfb97_z.jpg" width="640" height="480" alt="2016-03-25 15.07.19"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+NO MATARÁS SIN IMPORTAR LA ESPECIE.
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443525214/in/album-72157666406097825/" title="2016-03-25 19.07.51"><img src="https://farm2.staticflickr.com/1595/25443525214_6e957d8e8e_z.jpg" width="640" height="480" alt="2016-03-25 19.07.51"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+Procesión del Silencio.
 
 
 <!--
-
-
 # Erste Woche in Quito
 
 Wir waren Vormittags in der Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
