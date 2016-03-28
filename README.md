@@ -1,6 +1,10 @@
 ![Central Park](https://raw.githubusercontent.com/jjmhtp/Postkarte/master/2016-02-20.16.23.43.jpg)
+
 # Postkarte aus der Neuen Welt
 
+*… in welcher versucht wird, ein wenig geschriebene Ordnung in die trubligen Tage am Hudson River zu bringen, immer wieder unterbrochen durch die von unten heranströmenden Strände der Karibik*
+
+<p align="right">Luft über Mittelamerika, den 27. Februar 2016</p>
 Liebe Omis, lieber Opi, lieber Opa und
 und lieber über die Briefgeheimnislosigkeit von Postkarten spähender Mitleser,
 
@@ -40,11 +44,44 @@ Aber zu den Museen später mehr!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
 
-# Prozessionen in der Semana Santa
+# Zweite Postkarte aus der Neuen Welt
+
+*… in welcher etwas, aber nicht viel über die mittlerweile einen Monat zurückliegenden ersten Tage im Äquator zu lesen ist*
+
+<p align="right">Quito, den 24. März 2016</p>
+Meine Lieben,
+
+in unserer ersten Woche in Quito waren wir vormittags in unserer Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
+
+Ich will erst über das weniger lange Zurückliegende schreiben, ehe es mir so weit entfällt wie diese Tage schon, später vielleicht mehr!
+
+Es grüßt Euer Euch stets ergebener j.
+
+# Dritte Postkarte
+
+*… über die zweite und dritte Woche in Quito*
+
+<p align="right">Quito, den 28. März 2016</p>
+Meine Lieben,
+
+dieser Tage habe ich und Bernie mit mir für ein paar Nächte recht weit im Norden im Viertel San Carlos – genau: Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei einem gerade zur Beherbergung deutscher Medizinstudenten noch nicht zu betagten Ehepaar gewohnt und ab Montag, dem 7. März im Hospital Carlos Andrade Marín im Viertel America angefangen, Bernie im Hospital de los Valles, dem luxeriösen Krankenhaus einer Privatuniversität im Nobelvorort unter der Bergabrisskante.
+
+Das Wochenende vom 12. brachte uns den Besuch unserer deutsch-indigenen Hochzeit ein, mir dem Dienst entfliehend noch einen Tag im Regenwald, das vom 19. einen Ausflug an die Küste, über das beides ich aber auch lieber später bei Gelegeheit mehr schreibe und vorerst mit wärmsten Grüßen schließe!
+
+# Vierte Postkarte
+
+*… auf welcher ein paar Bilder von der Semana Santa zu sehen sind und zu ihnen später vielleicht auch ein bisschen mehr zu lesen sein wird*
+
+<p align="right">Quito, den 25. bis 28. März 2016</p>
+Meine Lieben,
+
+zum Karmontag hat Bernie auch in die Infektiologie des Hospital Carlos Andrade Marín gewechselt und ich mein Domizil ins Viertel Armero schon in den Hängen der Ausläufer des Vulkanes Pichincha mit Aussicht auf die sich unten in alles quellend ausdehnende Stadt.
+
 ## Procesión de las luces
 
-Gestern haben wir an der Procesión de las luces teilgenommen, herrlich, aber in
-der Bedeutung einiger Teile ein wenig rätselhaft:
+<p align="right">Quito, ab dem 25. März 2016</p>
+
+Gestern, am Jueves Santo – Gründonnerstag im Unsrigen –, haben wir der Procesión de las luces beigewohnt, um sechs beginnend, gerade so um die Stunde des Sonnenuntergangs, erst gaffend, später doch auch mitziehend. Herrlich! Aber in der Bedeutung einiger Teile ein wenig rätselhaft:
 
 ![](https://dl.dropbox.com/s/a81k4ts2uddfjtr/2016-03-24%2019.20.24.jpg)
 Warum es schon am Jueves Santo einen toten Christus gibt, haben wir nicht ganz verstanden. Zugleich wurden auch drei Kreuze getragen, wohl ein [panoptisches Narrativ](https://en.wikipedia.org/wiki/Narrative_art#Panoptic_narrative). Vor ihm werden Dornenkrone, Nägel und Hammer getragen.
@@ -68,7 +105,7 @@ Noch eine Maria.
 ![](https://dl.dropbox.com/s/kyp1m76hvlfgfb7/2016-03-24%2019.30.29.jpg)
 Und noch eine mit merkwürdigen Pyramidengestalten.
 
-## Viernes Santo
+## Viernes Santo und Procesión de los Diablos
 
 Karfreitag, der Viernes Santo, scheint Höhepunkt der Prozessionen zu sein. In einem Vorort gab es eine Procesión de los Diablos, die größte ist die Procesión Jesús del Gran Poder im historischen Zentrum, in Trauer endet der Tag mit der Procesión del Silencio.
 
@@ -120,23 +157,33 @@ NO MATARÁS SIN IMPORTAR LA ESPECIE.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443525214/in/album-72157666406097825/" title="2016-03-25 19.07.51"><img src="https://farm2.staticflickr.com/1595/25443525214_6e957d8e8e_z.jpg" width="640" height="480" alt="2016-03-25 19.07.51"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 Procesión del Silencio.
 
+# Fünfte Postkarte
+
+Meine Lieben,
+
+heute haben wir den Pichincha, unseren Hausvulkan, bestiegen, allerdings nicht seinen zuletzt aktiven Krater, sondern seinen zweiten und näher gelegenen Gipfel, den Rucu Pichincha.
+
+[Hier einiges zum anderen Gipfel, dem Guagua Pichincha, was ich noch lesen will.](http://volcano.si.edu/volcano.cfm?vn=352020)
+
+Bilder folgen, sobald sie sich hochgeladen haben!
+
+Auf hier und dort und in nun gar nicht mehr so weite Ferne vorort
+
+Euer j.
+
 
 <!--
-# Erste Woche in Quito
+Prozesionen
+alcide d'orbigny voyage pittoresque dans les deux americas
 
-Wir waren Vormittags in der Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
 
-# Zweite und dritte Woche
+# Krankhaus
 
-Ich habe recht weit im Norden im Viertel San Carlos – Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei Wilma und Jaime Enrique Esparza Rojas gewohnt.
+kein Infektionsmittel
+deutscher Praktikant
+HIV, Tb
 
-Ab Montag im Hospital Carlos Andrade Marín und im Hospital de los Valles.
 
-# Zusammen im Hospital Carlos Andrade Marín und Einzug in Armero
-
-Nach der zweiten Adresse nun in einem dritten wunderbar über der Stadt gelegenen Domizil mit dem Beginn der Semana Santa.
-
-24.3., 18 Uhr: Procesión de las luces
 
 # Einiges Essbares in Ecuador
 
