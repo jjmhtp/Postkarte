@@ -1,4 +1,6 @@
-![Central Park](https://raw.githubusercontent.com/jjmhtp/Postkarte/master/2016-02-20.16.23.43.jpg)
+![Central Park](https://raw.githubusercontent.com/jjmhtp/Postkarte/master/2016-02-20.16.23.43.jpg) Im Central Park, NYC.
+
+# **<big>Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …</big>**
 
 # Postkarte aus der Neuen Welt
 
@@ -115,46 +117,46 @@ Es gibt allerlei Figuren, so
 * die [Nazarenos](https://es.wikipedia.org/wiki/Nazareno).
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022595326/in/album-72157666406097825/" title="2016-03-25 13.20.15"><img src="https://farm2.staticflickr.com/1698/26022595326_ff529a668b_z.jpg" width="640" height="480" alt="2016-03-25 13.20.15"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022595326/in/album-72157666406097825/" title="2016-03-25 13.20.15"><img src="https://farm2.staticflickr.com/1698/26022595326_ff529a668b_z.jpg" width="640" height="480" alt="2016-03-25 13.20.15"></a>
 Ein Stangengebundener.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982148641/in/album-72157666406097825/" title="2016-03-25 13.22.00"><img src="https://farm2.staticflickr.com/1505/25982148641_9d130bdcd8_z.jpg" width="640" height="480" alt="2016-03-25 13.22.00"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982148641/in/album-72157666406097825/" title="2016-03-25 13.22.00"><img src="https://farm2.staticflickr.com/1505/25982148641_9d130bdcd8_z.jpg" width="640" height="480" alt="2016-03-25 13.22.00"></a>
 Kinder mit Kreuz.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775648730/in/album-72157666406097825/" title="2016-03-25 13.32.06"><img src="https://farm2.staticflickr.com/1705/25775648730_b149ebb078_z.jpg" width="640" height="480" alt="2016-03-25 13.32.06"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775648730/in/album-72157666406097825/" title="2016-03-25 13.32.06"><img src="https://farm2.staticflickr.com/1705/25775648730_b149ebb078_z.jpg" width="640" height="480" alt="2016-03-25 13.32.06"></a>
 JESUS TE AMO.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443726164/in/album-72157666406097825/" title="2016-03-25 13.34.06"><img src="https://farm2.staticflickr.com/1715/25443726164_cb7c29dea5_z.jpg" width="640" height="480" alt="2016-03-25 13.34.06"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443726164/in/album-72157666406097825/" title="2016-03-25 13.34.06"><img src="https://farm2.staticflickr.com/1715/25443726164_cb7c29dea5_z.jpg" width="640" height="480" alt="2016-03-25 13.34.06"></a>
 Gepeinigter Jesus.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982117561/in/album-72157666406097825/" title="2016-03-25 13.35.16"><img src="https://farm2.staticflickr.com/1556/25982117561_4c7311087b_z.jpg" width="640" height="480" alt="2016-03-25 13.35.16"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982117561/in/album-72157666406097825/" title="2016-03-25 13.35.16"><img src="https://farm2.staticflickr.com/1556/25982117561_4c7311087b_z.jpg" width="640" height="480" alt="2016-03-25 13.35.16"></a>
 Nazareno-Zug.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443695994/in/album-72157666406097825/" title="2016-03-25 13.42.00"><img src="https://farm2.staticflickr.com/1530/25443695994_c6aa3f07a1_z.jpg" width="640" height="480" alt="2016-03-25 13.42.00"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443695994/in/album-72157666406097825/" title="2016-03-25 13.42.00"><img src="https://farm2.staticflickr.com/1530/25443695994_c6aa3f07a1_z.jpg" width="640" height="480" alt="2016-03-25 13.42.00"></a>
 Gestürzter Jesus.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25955921412/in/album-72157666406097825/" title="2016-03-25 13.46.18"><img src="https://farm2.staticflickr.com/1605/25955921412_b460d3cdd3_z.jpg" width="640" height="480" alt="2016-03-25 13.46.18"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25955921412/in/album-72157666406097825/" title="2016-03-25 13.46.18"><img src="https://farm2.staticflickr.com/1605/25955921412_b460d3cdd3_z.jpg" width="640" height="480" alt="2016-03-25 13.46.18"></a>
 Rollstuhl.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1">
 Knabe mit Stange.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022500866/in/album-72157666406097825/" title="2016-03-25 13.52.51"><img src="https://farm2.staticflickr.com/1640/26022500866_558d04cd17_z.jpg" width="480" height="640" alt="2016-03-25 13.52.51"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022500866/in/album-72157666406097825/" title="2016-03-25 13.52.51"><img src="https://farm2.staticflickr.com/1640/26022500866_558d04cd17_z.jpg" width="480" height="640" alt="2016-03-25 13.52.51"></a>
 Prothese.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022491876/in/album-72157666406097825/" title="2016-03-25 13.58.09"><img src="https://farm2.staticflickr.com/1696/26022491876_cb17a0887c_z.jpg" width="640" height="480" alt="2016-03-25 13.58.09"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022491876/in/album-72157666406097825/" title="2016-03-25 13.58.09"><img src="https://farm2.staticflickr.com/1696/26022491876_cb17a0887c_z.jpg" width="640" height="480" alt="2016-03-25 13.58.09"></a>
 Frauen.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25445824883/in/album-72157666406097825/" title="2016-03-25 13.58.38"><img src="https://farm2.staticflickr.com/1540/25445824883_6931efe236_z.jpg" width="640" height="257" alt="2016-03-25 13.58.38"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25445824883/in/album-72157666406097825/" title="2016-03-25 13.58.38"><img src="https://farm2.staticflickr.com/1540/25445824883_6931efe236_z.jpg" width="640" height="257" alt="2016-03-25 13.58.38"></a>
 Panorama.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775483030/in/album-72157666406097825/" title="2016-03-25 14.50.01"><img src="https://farm2.staticflickr.com/1718/25775483030_7039102f9f_z.jpg" width="640" height="480" alt="2016-03-25 14.50.01"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775483030/in/album-72157666406097825/" title="2016-03-25 14.50.01"><img src="https://farm2.staticflickr.com/1718/25775483030_7039102f9f_z.jpg" width="640" height="480" alt="2016-03-25 14.50.01"></a>
 San Francisco mit Tauben.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443546634/in/album-72157666406097825/" title="2016-03-25 15.07.19"><img src="https://farm2.staticflickr.com/1652/25443546634_4595dbfb97_z.jpg" width="640" height="480" alt="2016-03-25 15.07.19"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443546634/in/album-72157666406097825/" title="2016-03-25 15.07.19"><img src="https://farm2.staticflickr.com/1652/25443546634_4595dbfb97_z.jpg" width="640" height="480" alt="2016-03-25 15.07.19"></a>
 NO MATARÁS SIN IMPORTAR LA ESPECIE.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443525214/in/album-72157666406097825/" title="2016-03-25 19.07.51"><img src="https://farm2.staticflickr.com/1595/25443525214_6e957d8e8e_z.jpg" width="640" height="480" alt="2016-03-25 19.07.51"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443525214/in/album-72157666406097825/" title="2016-03-25 19.07.51"><img src="https://farm2.staticflickr.com/1595/25443525214_6e957d8e8e_z.jpg" width="640" height="480" alt="2016-03-25 19.07.51"></a>
 Procesión del Silencio.
 
 # Fünfte Postkarte
@@ -171,10 +173,64 @@ Auf hier und dort und in nun gar nicht mehr so weite Ferne vorort
 
 Euer j.
 
+# Sechste Postkarte
+*zum zweiten Mal aus dem Regenwald*
+
+Im Regenwald gab es eine [Harpyie](https://de.wikipedia.org/wiki/Harpyie_%28Vogel%29).
+
+## Vorbereitung
+Einkauf von:
+* Stiefeln für 10 $ pro Paar,
+* einem Zelt für 20 $,
+* einer Machete für 7 $ und später eine Feile,
+* einer Stirnlampe.
+
+### from:	A\*\*\*<br/><!--TODO: improve formatting!?-->
+to:	Johannes \*\*\*<br/>
+date:	Sat, Apr 2, 2016 at 2:45 AM<br/>
+subject:	Re: Camping in Ecuador
+
+>Hi Johannes and Bernard,
+>
+>Sorry for the late response, I was in the Cuyabeno reserve myself until just now (but with parents, to a lodge). I only camped in Sumaco, I don't know if it is easy possible in Cuyabeno if you don't go to a lodge. I know there are some travelagencies offering trekking with camping in cuyabeno, but you will definitely pay a lot. If you want to find a guide yourself, your spanish should be really good, and I would take a boat to a community in the reserve (you have a couple of them,I don't know how to get there) and ask around locally. But since no other tourists do this, you'll have to be patient and find out a lot for your self, maybe not the best if youdon't have a lot of time. Don't forget as well that the rainy season just begun and you'll be wet, very wet, so make shure to have waterproof bags. I only did a four day trekking with a local guide in Sumaco. Take the bus to pacto sumaco from guagua Sumaco and ask for H***, my awesome guide.He asks about 35 dollars per person and you have to buy the food as well. If the weather is bad I wouldn't go camping but do the trail to climb the sumaco vulcano,its a nice three day hike but you sleep in huts along the way,which is nice during a tropical storm. But really the best advice I can give you  is to go and ask around yourself, and see what is the best option, as the conditions for you will be different as it was for me.
+>
+>Last thing I want to say is that if you want to see a lot of animals like monkeys, sloths and pink river dolphins walking is not a good option. You move slow because you need to make your own way and you make a lot of noise. Just so you have realistic expectations.
+>
+>All the best, if more questions let me know,
+>
+>A***
+
+Wir haben aber keinen [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) getrunken.
+
+Map of Yasuni:  <http://mongabay-images.s3.amazonaws.com/13/1112Map_Yasuni_Finer-et-al.jpg>
+
+
+# Außerhalb der Reihe
+## An das liebe Christkind
+Von nun an wünsche ich mir – sofern hier nicht anders vermerkt und Lebensmittel und gebrauchte oder Second-Hand-Dinge ausgenommen – nur noch Dinge, die nicht mit Geld erworben wurden, also vielleicht selbst Geschneidertes oder Geschriebenes oder kostenlos erworbenes Immaterielles wie Musik-, Film- oder Buchdateien.
+
+
 
 <!--
-Prozesionen
+
+# Kolonialkunst
+https://it.wikipedia.org/wiki/Titoli_mariani
+
+https://de.wikipedia.org/wiki/Mariensymbol
+
+http://www.iconclass.org/rkd/11L22/
+
+http://www.iconclass.org/rkd/71X24/
+
+http://www.iconclass.org/rkd/11F111%28...%29/
+
+
+# Prozesionen
 alcide d'orbigny voyage pittoresque dans les deux americas
+
+
+# Ornithologie
+
 
 
 # Krankhaus
@@ -238,7 +294,7 @@ Being in the US makes me understand more of the world, explains Western influenc
 -25-4T16 im native American Museum
 je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation pf a relevant part of reality that is essential to your everyday life though you might not notice it.
 
-
+* man wäscht kalt in ec
 
 
 # TODO:
@@ -253,9 +309,7 @@ je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem
 * add Flugmetadaten, …
 -->
 
+
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="https://licensebuttons.net/p/zero/1.0/80x15.png" style="border-style: none;" alt="CC0" />
-  </a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 </p>
