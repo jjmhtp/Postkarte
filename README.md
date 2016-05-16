@@ -123,7 +123,11 @@ Und noch eine mit merkwürdigen Pyramidengestalten.
 
 Karfreitag, der Viernes Santo, scheint Höhepunkt der Prozessionen zu sein. In einem Vorort gab es eine Procesión de los Diablos, die größte ist die Procesión Jesús del Gran Poder im historischen Zentrum, in Trauer endet der Tag mit der Procesión del Silencio.
 
-Die Procesión Jesús del Gran Poder in Quito ist eine Prozession, die seit _langem_ in Quito stattfindet.
+Die Procesión Jesús del Gran Poder in Quito ist eine Prozession, die seit _langem_ in Quito stattfindet. Die Geschichte soll hier bei Gelegenheit weiter aufgearbeitet werden.
+<!--TODO-->
+
+Eine interessante Zeichnung der Prozession findet sich bei [Alcide d'Orbigny](https://en.wikipedia.org/wiki/Alcide_d%27Orbigny) in seiner [Voyage pittoresque dans les deux Amériques](https://archive.org/details/voyagepittoresque00orbirich):
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26032047802/in/datetaken/" title="Quito"><img src="https://farm2.staticflickr.com/1613/26032047802_b25169cb16_z.jpg" width="640" height="480" alt="Quito"></a>
 
 Es gibt allerlei Figuren, so
 * die [Nazarenos](https://es.wikipedia.org/wiki/Nazareno).
@@ -186,7 +190,9 @@ Auf hier und dort und in nun gar nicht mehr so weite Ferne vorort
 Euer j.
 
 # Sechste Postkarte
-*zum zweiten Mal aus dem Regenwald*
+(noch in Arbeit)
+
+*… über den zweiten Abstecher in den Regenwald*
 
 Im Regenwald gab es eine [Harpyie](https://de.wikipedia.org/wiki/Harpyie_%28Vogel%29).
 
@@ -215,7 +221,53 @@ subject:	Re: Camping in Ecuador
 
 Wir haben aber keinen [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) getrunken.
 
-Map of Yasuni:  <http://mongabay-images.s3.amazonaws.com/13/1112Map_Yasuni_Finer-et-al.jpg>
+Eine Karte der Ölblöcke im [Nationalpark Yasuní](https://tools.wmflabs.org/reasonator/?q=Q1641326) gibt es im Artikel *[Deforestation ramping up in Yasuni as Ecuador sets to open up national park to drilling](https://news.mongabay.com/2014/07/deforestation-ramping-up-in-yasuni-as-ecuador-sets-to-open-up-national-park-to-drilling/)* auf mongabay.com.
+
+# Siebte Postkarte
+(noch in Arbeit)
+<!--TODO: besser in anderen Postkarten einflechten!-->
+
+*… mit ein paar verstreuten Beobachtungen aus Ecuador*
+
+Wäsche wäscht man kalt, mit unterschiedlichem Erfolg bei den von mir beobachteten Fällen wenigsten.
+
+## Kulinarik
+
+Einiges Ess- und Trinkbares:
+* [canelazo](https://tools.wmflabs.org/reasonator/?q=Q5032256)
+* pan de piña
+* empanada de viento
+* [arepa](https://tools.wmflabs.org/reasonator/?q=Q642702)
+* yuca
+* [mote](https://tools.wmflabs.org/reasonator/?q=Q3545686)
+* morocho con leche
+* [choclo](https://tools.wmflabs.org/reasonator/?q=Q11575)
+* [cevichocho](https://tools.wmflabs.org/reasonator/?q=Q5759691)
+* plátanos (Kochbananen, die Terminologie ist kompliziert)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26120237256/in/album-72157666406097825/" title="Achotillo"><img src="https://farm2.staticflickr.com/1548/26120237256_ebc1c79721_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Achotillo"></a>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Granadilla"></a>
+Besondere Früchte:
+* [tomate de árbol](https://tools.wmflabs.org/reasonator/?q=Q379747)
+* [taxo](https://tools.wmflabs.org/reasonator/?q=Q415622)
+* [achotillo](https://tools.wmflabs.org/reasonator/?q=Q476864): ähnlich der Litschi, aber mit Zotteln statt des schilkrötenpanzerartigen Fruchtgehäuses
+* [granadilla](https://tools.wmflabs.org/reasonator/?q=Q917921)
+
+
+# Achte Postkarte
+(noch in Arbeit)
+<!--TODO-->
+
+*… mit ein paar Beobachtungen aus dem Krankenhaus*
+
+Es gibt fast kein Infektionsmittel.
+
+Europäische Praktikanten haben eine merkwürdige Sonderstellung im Krankenhaus, jedenfalls bei uns.
+
+Es gibt reichlich HIV und Tb und Hep B, das weil erst irgendwann in den 90er Jahren angefangen wurde zu impfen.
+<!--TODO: Daten!-->
+
+Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 
 
 # Außerhalb der Reihe
@@ -238,58 +290,19 @@ http://www.iconclass.org/rkd/71X24/
 http://www.iconclass.org/rkd/11F111%28...%29/
 
 
-# Prozesionen
-alcide d'orbigny voyage pittoresque dans les deux americas
-
-
 # Ornithologie
 
-
-
-# Krankhaus
-
-kein Infektionsmittel
-deutscher Praktikant
-HIV, Tb
-
-
-
-# Einiges Essbares in Ecuador
-
-* pan de piña
-* empanada de viento
-* arepa
-* yuca
-* mote
-* morocho con leche
-* tomate de árbol
-* [taxo](https://www.wikidata.org/wiki/Q415622)
-* [choclo](https://www.wikidata.org/wiki/Q11575)
-
-
-
-
-
-Smog -> Pinguecula
-
-# Ernährung NYC
-* Supermarkt: Bagels
-* Abendessen mit den Vernons
-* Rutgers Mensa
-* arabischer Stand
-
-
-
+# US people
 furchtbar nette Leute: schon im Hinzug der Schaffner,
 der Helfer nach ERW
-nur im Museum of the Native American
+nur im Museum of the Native American nicht
 
 
 # Zweite Postkarte aus der Neuen Welt
-… vor einer abendländischen Bilderflut auf der anderen Seite des Teiches
+… von einer abendländischen Bilderflut auf der anderen Seite des Teiches
 
 
-Dritte Postkarte aus der Neuen Welt
+# Dritte Postkarte aus der Neuen Welt
 … über meine unerwartete neue Freundschaft mit der deutschen Küche😱
 
 Wenn vielleicht in einigem, so haben mich die letzten Tage mindestens was die traditionellen Hungerbekämpfungsriten deutscher Lande betrifft,
@@ -307,14 +320,13 @@ Being in the US makes me understand more of the world, explains Western influenc
 -25-4T16 im native American Museum
 je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation pf a relevant part of reality that is essential to your everyday life though you might not notice it.
 
-* man wäscht kalt in ec
-
 
 # TODO:
 * Publishing
     * gist? Comments here? → public Github? (–): too public? (+): cool
     * GDocs?  EDITABLE!!!
     * Wordpress? Commentable; (–): bloglike
+* make most of the photos floating right
 * make all links local links redirecting those to non-private topics!!!
 * w:[browser language → fallback: reasonator] links by Wikidata hoverable
 * location: coordinates/address hoverable
