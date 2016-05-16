@@ -197,7 +197,8 @@ Einkauf von:
 * einer Machete für 7 $ und später eine Feile,
 * einer Stirnlampe.
 
-### from:	A\*\*\*<br/><!--TODO: improve formatting!?-->
+### from:	A\*\*\*<br/>
+<!--TODO: improve formatting!?-->
 to:	Johannes \*\*\*<br/>
 date:	Sat, Apr 2, 2016 at 2:45 AM<br/>
 subject:	Re: Camping in Ecuador
