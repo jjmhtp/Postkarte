@@ -2,15 +2,24 @@
 
 # **<big>Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …</big>**
 
+# Inhalt
+* [Postkarte aus der Neuen Welt](/#postkarte-aus-der-neuen-welt)
+* [Zweite Postkarte aus der Neuen Welt](/#zweite-postkarte-aus-der-neuen-welt)
+* [Dritte Postkarte](/#dritte-postkarte)
+* [Vierte Postkarte](/#vierte-postkarte)
+* [Fünfte Postkarte](/#fünfte-postkarte)
+* [Sechste Postkarte](/#sechste-postkarte)
+
 # Postkarte aus der Neuen Welt
 
 *… in welcher versucht wird, ein wenig geschriebene Ordnung in die trubligen Tage am Hudson River zu bringen, immer wieder unterbrochen durch die von unten heranströmenden Strände der Karibik*
 
 <p align="right">Luft über Mittelamerika, den 27. Februar 2016</p>
-Liebe Omis, lieber Opi, lieber Opa und
-und lieber über die Briefgeheimnislosigkeit von Postkarten spähender Mitleser,
+
+Liebe Omis, lieber Opi, lieber Opa und lieber über die Briefgeheimnislosigkeit von Postkarten spähender Mitleser,
 
 soviel hier neu ist, ist es mir doch nicht gelungen, mein altes Problem abzuschütteln, dass ich nicht dazu komme (oder mir nicht die Zeit nehme – wie man es drehen mag) Euch eine Karte zu schreiben, bevor ich die Heimreise nicht wenigstens schon zum Flughafen angetreten habe. Für einen kurzen Gruß an Mama und Papa einem Sandwichbarbetreiber😱 im Djutifri als Mittler zum Briefkasten hat es gerade eben noch gereicht, nun sollt auch Ihr bedacht werden! Glücklicherweise verbinden sich just in diesem Moment die beiden Teile meiner Reise, sodass sich nun in den 8 Stunden dazwischen eine wunderbare Möglichkeit für ein paar Zeilen bietet. … Also schrieb ich vorhin, nun muss es korrigiert werden: Plante ich zunächst bloß, je eine später von Hand zu kopierende Postkarte an Euch vorzuszizzieren, uferte das bescheidene Vorhaben rasch zum folgenden Sermon aus aus, sodass ich diesen nun in getippter Form irgendwo ablegen werde und mich für etwaige zusätzliche Ansichtskarten auf sparsamere Worte verlegen will! Womöglich werden es doch später auch noch mehr fiktive Karten, nun aber los mit der ersten! <small>… die ich versucht habe, über die eben verganenen Tage zu schreiben, wobei ich aber von mir selbst beim hinuntersehen auf das Öd-, Brack-, Strand- und Waldland zwischen Miami und Quito abgelenkt wurde.</small>
+
 
 * *27.2., 8 Uhr*  Ich sitze im Flugzeug über der Küste von Florida, sehe auf die Strahlen des Sonnenaufgangs auf dem Wolken über dem Meer und nun habe nach 7 übervollen Tagen in New York endlich ein wenig ruhige Muße Euch zu schreiben und über die Tage nachzudenken.
 
@@ -51,6 +60,7 @@ Aber zu den Museen später mehr!
 *… in welcher etwas, aber nicht viel über die mittlerweile einen Monat zurückliegenden ersten Tage im Äquator zu lesen ist*
 
 <p align="right">Quito, den 24. März 2016</p>
+
 Meine Lieben,
 
 in unserer ersten Woche in Quito waren wir vormittags in unserer Banana Spanish School – mittelmäßig, so, dass wir sie schon am Freitag statt am Sonntag verlassen haben. In den ersten Tagen war auch Julian noch in Quito, was uns das Schicksal wie glücklich so fein abzustimmen erlaubt hat!
@@ -64,6 +74,7 @@ Es grüßt Euer Euch stets ergebener j.
 *… über die zweite und dritte Woche in Quito*
 
 <p align="right">Quito, den 28. März 2016</p>
+
 Meine Lieben,
 
 dieser Tage habe ich und Bernie mit mir für ein paar Nächte recht weit im Norden im Viertel San Carlos – genau: Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei einem gerade zur Beherbergung deutscher Medizinstudenten noch nicht zu betagten Ehepaar gewohnt und ab Montag, dem 7. März im Hospital Carlos Andrade Marín im Viertel America angefangen, Bernie im Hospital de los Valles, dem luxeriösen Krankenhaus einer Privatuniversität im Nobelvorort unter der Bergabrisskante.
@@ -75,6 +86,7 @@ Das Wochenende vom 12. brachte uns den Besuch unserer deutsch-indigenen Hochzeit
 *… auf welcher ein paar Bilder von der Semana Santa zu sehen sind und zu ihnen später vielleicht auch ein bisschen mehr zu lesen sein wird*
 
 <p align="right">Quito, den 25. bis 28. März 2016</p>
+
 Meine Lieben,
 
 zum Karmontag hat Bernie auch in die Infektiologie des Hospital Carlos Andrade Marín gewechselt und ich mein Domizil ins Viertel Armero schon in den Hängen der Ausläufer des Vulkanes Pichincha mit Aussicht auf die sich unten in alles quellend ausdehnende Stadt.
