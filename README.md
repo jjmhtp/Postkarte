@@ -3,12 +3,12 @@
 # **<big>Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …</big>**
 
 # Inhalt
-* [Postkarte aus der Neuen Welt](/#postkarte-aus-der-neuen-welt)
-* [Zweite Postkarte aus der Neuen Welt](/#zweite-postkarte-aus-der-neuen-welt)
-* [Dritte Postkarte](/#dritte-postkarte)
-* [Vierte Postkarte](/#vierte-postkarte)
-* [Fünfte Postkarte](/#fünfte-postkarte)
-* [Sechste Postkarte](/#sechste-postkarte)
+* [Postkarte aus der Neuen Welt](#postkarte-aus-der-neuen-welt)
+* [Zweite Postkarte aus der Neuen Welt](#zweite-postkarte-aus-der-neuen-welt)
+* [Dritte Postkarte](#dritte-postkarte)
+* [Vierte Postkarte](#vierte-postkarte)
+* [Fünfte Postkarte](#fünfte-postkarte)
+* [Sechste Postkarte](#sechste-postkarte)
 
 # Postkarte aus der Neuen Welt
 
