@@ -209,7 +209,7 @@ Im Regenwald gab es eine [Harpyie](https://de.wikipedia.org/wiki/Harpyie_%28Voge
 Einkauf von:
 * Stiefeln für 10 $ pro Paar,
 * einem Zelt für 20 $,
-* einer Machete für 7 $ und später eine Feile,
+* einer Machete für 7 $ und später in Shushufindi einer Feile,
 * einer Stirnlampe.
 
 ### from:	A\*\*\*<br/>
@@ -280,8 +280,8 @@ Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 
 
 # Außerhalb der Reihe
-## An das liebe Christkind
-Von nun an wünsche ich mir – sofern hier nicht anders vermerkt und Lebensmittel und gebrauchte oder Second-Hand-Dinge ausgenommen – nur noch Dinge, die nicht mit Geld erworben wurden, also vielleicht selbst Geschneidertes oder Geschriebenes oder kostenlos erworbenes Immaterielles wie Musik-, Film- oder Buchdateien.
+## An die Danaer und das liebe Christkind
+Von nun an wünsche ich mir – sofern nicht anders angegenben und Lebensmittel und gebrauchte oder Second-Hand-Dinge ausgenommen – nur noch Dinge, die nicht mit Geld erworben wurden, also vielleicht selbst Geschneidertes oder Geschriebenes oder kostenlos erworbenes Immaterielles wie Musik-, Film- oder Buchdateien.
 
 ## Warum ich die Kirchensteuer künftig nicht mehr zu zahlen gedenke und in der Kirche nicht spende
 …
@@ -333,11 +333,10 @@ je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem
 
 # TODO:
 * Publishing
-    * gist? Comments here? → public Github? (–): too public? (+): cool
-    * GDocs?  EDITABLE!!!
-    * Wordpress? Commentable; (–): bloglike
+    * GDocs for B? EDITABLE!!!
+    * Wordpress? Commentable more easily than with Github (compare downunder); (–): bloglike
 * make most of the photos floating right
-* make all links local links redirecting those to non-private topics!!!
+* make all links local links (on a first step invisible with CSS perhaps) redirecting those to non-private topics (Wikidata, …)!!!
 * w:[browser language → fallback: reasonator] links by Wikidata hoverable
 * location: coordinates/address hoverable
 * Lit.-Differentiation, wie heißt das Metadaten-Ding?
