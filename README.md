@@ -1,6 +1,12 @@
-![Central Park](https://raw.githubusercontent.com/jjmhtp/Postkarte/master/2016-02-20.16.23.43.jpg) Im Central Park, NYC.
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a> Im Central Park, NYC.
 
-# **<big>Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …</big>**
+
+
+**Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …**
+
+<iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full screen](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)
 
 # Inhalt
 * [Postkarte aus der Neuen Welt](#postkarte-aus-der-neuen-welt)
