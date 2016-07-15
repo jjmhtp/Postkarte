@@ -81,6 +81,9 @@ dieser Tage habe ich und Bernie mit mir für ein paar Nächte recht weit im Nord
 
 Das Wochenende vom 12. brachte uns den Besuch unserer deutsch-indigenen Hochzeit ein, mir dem Dienst entfliehend noch einen Tag im Regenwald, das vom 19. einen Ausflug an die Küste, über das beides ich aber auch lieber später bei Gelegeheit mehr schreibe und vorerst mit wärmsten Grüßen schließe!
 
+## matrimonio
+Musikalische Eindrücke sind etwa solche: [Musik](https://www.youtube.com/watch?v=5n2cSdOrw60), [Text zum Mitsingen](https://ecuadormusicakichwa.blogspot.de/), [sprachliche Einführung](http://kichwas.com/aprendizajekichwa.pdf).
+
 # Vierte Postkarte
 
 *… auf welcher ein paar Bilder von der Semana Santa zu sehen sind und zu ihnen später vielleicht auch ein bisschen mehr zu lesen sein wird*
@@ -274,6 +277,8 @@ Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 ## An das liebe Christkind
 Von nun an wünsche ich mir – sofern hier nicht anders vermerkt und Lebensmittel und gebrauchte oder Second-Hand-Dinge ausgenommen – nur noch Dinge, die nicht mit Geld erworben wurden, also vielleicht selbst Geschneidertes oder Geschriebenes oder kostenlos erworbenes Immaterielles wie Musik-, Film- oder Buchdateien.
 
+## Warum ich die Kirchensteuer künftig nicht mehr zu zahlen gedenke und in der Kirche nicht spende
+…
 
 
 <!--
@@ -300,7 +305,6 @@ nur im Museum of the Native American nicht
 
 # Zweite Postkarte aus der Neuen Welt
 … von einer abendländischen Bilderflut auf der anderen Seite des Teiches
-
 
 # Dritte Postkarte aus der Neuen Welt
 … über meine unerwartete neue Freundschaft mit der deutschen Küche😱
@@ -332,6 +336,7 @@ je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem
 * location: coordinates/address hoverable
 * Lit.-Differentiation, wie heißt das Metadaten-Ding?
 * add Flugmetadaten, …
+* neue Serie zu käuflichen[/korrumpierten] Geisteswissenschaften, vgl. die Lesezeichen
 -->
 
 
