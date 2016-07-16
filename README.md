@@ -1,6 +1,6 @@
-<header><!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title --><big>**Postkarten aus der neuen Welt**</big>
+<header><big>**Postkarten aus der neuen Welt**</big>
 =====
-
+<!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
 
 <figure>
   <a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
