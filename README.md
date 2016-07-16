@@ -1,12 +1,24 @@
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a> Im Central Park, NYC.
+<header><!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title --><big>**Postkarten aus der neuen Welt**</big>
+=====
 
+
+<figure>
+  <a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
+  <figcaption>Im Central Park, NYC.</figcaption>
+</figure>
 
 
 **Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …**
 
-<iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
-Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full screen](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)
+<figure>
+  <iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
+  <figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full screen](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)</figcaption>
+</figure>
+
+</header>
+
+<main>
 
 # Inhalt
 * [Postkarte aus der Neuen Welt](#postkarte-aus-der-neuen-welt)
@@ -29,7 +41,7 @@ soviel hier neu ist, ist es mir doch nicht gelungen, mein altes Problem abzusch�
 
 * *27.2., 8 Uhr*  Ich sitze im Flugzeug über der Küste von Florida, sehe auf die Strahlen des Sonnenaufgangs auf dem Wolken über dem Meer und nun habe nach 7 übervollen Tagen in New York endlich ein wenig ruhige Muße Euch zu schreiben und über die Tage nachzudenken.
 
-TL;DR: Bernhard und ich hatten es wenn auch durchaus anstrengend ganz herrlich zu zweit in den Straßenschluchten von Manhattan und bei all unseren Gastgebern. Die Stadt fordert ihren Benutzer sicherlich, zumal aber ihren Stippvisitenbesucher! – vielleicht vergleichbar mit Berlin, aber doch auf noch intensivere Weise. Dabei haben wir aber alle Tage in einem Gegenprogramm mit den beiden Kunststudenten von der Münchner Akademie und ihren Freunden verbracht, dabei vielleicht eigentlich viel mehr gelernt als in den Museen. Und diese USA, wenigstens das Gesehene in New York und New Jersey ist sehr sehr komisch und immer wenigstens aufgesetzt guter Dinge und freundlich!
+TL;DR: Wir hatten es wenn auch durchaus anstrengend ganz herrlich zu zweit in den Straßenschluchten von Manhattan und bei all unseren Gastgebern. Die Stadt fordert ihren Benutzer sicherlich, zumal aber ihren Stippvisitenbesucher! – vielleicht vergleichbar mit Berlin, aber doch auf noch intensivere Weise. Dabei haben wir aber alle Tage in einem Gegenprogramm mit den beiden Kunststudenten von der Münchner Akademie und ihren Freunden verbracht, dabei vielleicht eigentlich viel mehr gelernt als in den Museen. Und diese USA, wenigstens das Gesehene in New York und New Jersey ist sehr sehr komisch und immer wenigstens aufgesetzt guter Dinge und freundlich!
 \*\*\* Ende des [TL;DR](https://de.wikipedia.org/wiki/TL;DR), des sog. too long; didn’t read – zu lang, nicht gelesen – für den eiligen Leser, er sei hiermit frei und entlassen! \*\*\*
 
 Mir scheint, dass die gegenwärtige Reise sich jedenfalls bisher derartig entpuppt, dass sie sich als zeitlich und monetär aufwendigste der letzten Zeit zugleich als die im Verhältnis zur – wenn auch hohen – Höhe dieser eingesetzten Mitteln immer noch ertragreichsten eben der letzten Zeit entwickeln könnte. Die Verkleinerung der Repräsentation der Welt in meinem Kopf durch das Sehen eines Ozeans von oben und seines anderen Ufers scheint mir doch eine Ergänzung oder gar Korrektur der Vorstellungen zur Realität hin zu sein und zwar zu einer den Alltag in allem bestimmenden Realität, auch wenn mir bisher kaum auffallen konnte, wie eine Pandemie von Starbucks und McDonald’s😱 kulturgeschichtlich notwendig entstehen konnte (weil es nichts anderes oder nichts Besseres gibt, dass überhaupt verdrängt hätte werden können wohl) oder wie das Trauma durch 9/11 in öffentlicher und privater Meinung und öffentlichem Raum behandelt oder gehändelt wird.
@@ -41,7 +53,7 @@ Der Flug ging mit der Sonne durch den Tag, aber es war recht wolkig. Ich habe im
 * *27.2., 10:30 Uhr*  Die Tische dürfen wieder ausgeklappt werden, unten erscheint gerade die Küste Cubas mit einer kleinen Hafenstadt ![Bild folgt]()
 * *27.2., 10:50, 11 876 m ü. NN*  Während ich schreibe ist Cuba schon wieder vorüber, weil ich zuviel schauen musste …!, nun das Karibische Meer. Wo ist das Schiff vom Pichlerschen?
 
-Weiter von vorn!: So trudelte ich also mit dem Regionalzug von Philadelphia oder Philly in New Jersey mit dem Tunnel unter dem Hudson River unterirdisch an Penn Station in Manhattan ein, traf den armen Bernie, der beinahe drei Stunden auf mich warten hatte müssen und wir haben uns bloß rasch an die Erdoberfläche durchgeschlagen – Reklame überall ![Bild folgt]() – und uns auf den Weg zu unserer Herberge in Queens gemacht.
+Weiter von vorn!: So trudelte ich also mit dem Regionalzug von Philly in New Jersey mit dem Tunnel unter dem Hudson River unterirdisch an Penn Station in Manhattan ein, traf den armen Bernie, der beinahe drei Stunden auf mich warten hatte müssen und wir haben uns bloß rasch an die Erdoberfläche durchgeschlagen – Reklame überall ![Bild folgt]() – und uns auf den Weg zu unserer Herberge in Queens gemacht.
 
 * *27.2., 12:10 Uhr, 11 997 m. ü. NN, 772 km/h*  Unten taucht das nicaraguanische Eiland Miskito Cay auf. ![Bild folgt]() Das Festland ist zu weit weg unter einer Wolkenfront, um es zu sehen. Eben gab es ein kleines Mittagessen, ganz nach amerikanischer Art, so wie wir es schon manchmal in den letzten Tagen hatten, also grauenhaft! Man kann das Futter dieser Vereinigten Fastfoodfresser schon so essen, es schmeckt meistens ähnlich gut wie Haferflocken mit Wasser; dabei ist es aber weder günstig noch gar dem Mastamerikaner oder Masttouristen zuträglich. Also einfach grauenhaft!
 *27.2., 12:28 Uhr, 11 994 m ü. NN*  Archipiélago de San Andrés, Providencia y Santa Catalina ![Bild folgt]()
@@ -112,7 +124,7 @@ Warum es schon am Jueves Santo einen toten Christus gibt, haben wir nicht ganz v
 ![](https://dl.dropbox.com/s/q6aywmmgfrm3pap/2016-03-24%2019.23.59.jpg)
 
 ![](https://dl.dropbox.com/s/6r6gqkioe07stis/2016-03-24%2019.24.53.jpg)
-Weiter vorn im Zug gibt es eine ganze Reihe von Marien. Um was für Marien es sich handelt, ist nicht ganz klar. Bernhard meint in einer die Virgen de Guápulo erkannt zu haben, Maria, die in einer Marienerscheinung im Städtchen und heutigen Stadtteil Guápulo sichtbar wurde und hier sich seither Verehrung erfreut.
+Weiter vorn im Zug gibt es eine ganze Reihe von Marien. Um was für Marien es sich handelt, ist nicht ganz klar. B meint in einer die Virgen de Guápulo erkannt zu haben, Maria, die in einer Marienerscheinung im Städtchen und heutigen Stadtteil Guápulo sichtbar wurde und hier sich seither Verehrung erfreut.
 
 ![](https://dl.dropbox.com/s/8lrifcec4f9mqv8/2016-03-24%2019.25.03.jpg)
 Vor dem Leichnahm eine ganze Schar junger Veronikas.
@@ -254,8 +266,12 @@ Einiges Ess- und Trinkbares:
 * [cevichocho](https://tools.wmflabs.org/reasonator/?q=Q5759691)
 * plátanos (Kochbananen, die Terminologie ist kompliziert)
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26120237256/in/album-72157666406097825/" title="Achotillo"><img src="https://farm2.staticflickr.com/1548/26120237256_ebc1c79721_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Achotillo"></a>
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Granadilla"></a>
+<figure style="float:right;clear:right">
+  <a href="https://www.flickr.com/photos/jjmhtp/26120237256/in/album-72157666406097825/" title="Achotillo"><img src="https://farm2.staticflickr.com/1548/26120237256_ebc1c79721_m.jpg" width="240" height="180"  alt="Achotillo"></a>
+  <figcaption>Achotillo</figcaption>
+</figure>
+
+<a href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Granadilla"></a>
 Besondere Früchte:
 * [tomate de árbol](https://tools.wmflabs.org/reasonator/?q=Q379747)
 * [taxo](https://tools.wmflabs.org/reasonator/?q=Q415622)
@@ -329,19 +345,6 @@ Being in the US makes me understand more of the world, explains Western influenc
 
 -25-4T16 im native American Museum
 je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation pf a relevant part of reality that is essential to your everyday life though you might not notice it.
-
-
-# TODO:
-* Publishing
-    * GDocs for B? EDITABLE!!!
-    * Wordpress? Commentable more easily than with Github (compare downunder); (–): bloglike
-* make most of the photos floating right
-* make all links local links (on a first step invisible with CSS perhaps) redirecting those to non-private topics (Wikidata, …)!!!
-* w:[browser language → fallback: reasonator] links by Wikidata hoverable
-* location: coordinates/address hoverable
-* Lit.-Differentiation, wie heißt das Metadaten-Ding?
-* add Flugmetadaten, …
-* neue Serie zu käuflichen[/korrumpierten] Geisteswissenschaften, vgl. die Lesezeichen
 -->
 
 
