@@ -1,6 +1,11 @@
-<header><big>**Postkarten aus der neuen Welt**</big>
+<header><big>**!أهْلاً وَسَهْلاً<br />Postkarten aus der Neuen Welt**</big>
 =====
-<!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
+<!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->und mehr.
+</header>
+
+noch mehr auf [twitter](https://twitter.com/jjmhtp), [fb](https://www.facebook.com/jjmhtpjjmhtp), [last.fm](http://www.last.fm/user/jjmhtp), [zotero](https://www.zotero.org/jjmhtp),
+[wikimedia](https://www.wikidata.org/wiki/User:Marsupium),
+etc.
 
 <figure>
   <a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
@@ -13,7 +18,7 @@
 
 <figure>
   <iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
-  <figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full screen](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)</figcaption>
+  <figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
 </figure>
 
 </header>
@@ -87,6 +92,8 @@ Ich will erst über das weniger lange Zurückliegende schreiben, ehe es mir so w
 
 Es grüßt Euer Euch stets ergebener j.
 
+PS: In Ecuador ist nach und nach eine [kleine Literatursammlung](https://www.zotero.org/jjmhtp/items/collectionKey/MRKFRNJZ) entstanden mit ein paar interessanten Titeln zu ein paar Dingen, die im Folgenden begegnen.
+
 # Dritte Postkarte
 
 *… über die zweite und dritte Woche in Quito*
@@ -100,7 +107,7 @@ dieser Tage habe ich und Bernie mit mir für ein paar Nächte recht weit im Nord
 Das Wochenende vom 12. brachte uns den Besuch unserer deutsch-indigenen Hochzeit ein, mir dem Dienst entfliehend noch einen Tag im Regenwald, das vom 19. einen Ausflug an die Küste, über das beides ich aber auch lieber später bei Gelegeheit mehr schreibe und vorerst mit wärmsten Grüßen schließe!
 
 ## matrimonio
-Musikalische Eindrücke sind etwa solche: [Musik](https://www.youtube.com/watch?v=5n2cSdOrw60), [Text zum Mitsingen](https://ecuadormusicakichwa.blogspot.de/), [sprachliche Einführung](http://kichwas.com/aprendizajekichwa.pdf).
+Musikalische Eindrücke sind etwa solche: [Musik](https://www.youtube.com/watch?v=5n2cSdOrw60), [Text zum Mitsingen](https://ecuadormusicakichwa.blogspot.de/), [sprachliche Einführung für Kichwa-Anfänger](http://kichwas.com/aprendizajekichwa.pdf).
 
 # Vierte Postkarte
 
@@ -175,7 +182,7 @@ Gestürzter Jesus.
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25955921412/in/album-72157666406097825/" title="2016-03-25 13.46.18"><img src="https://farm2.staticflickr.com/1605/25955921412_b460d3cdd3_z.jpg" width="640" height="480" alt="2016-03-25 13.46.18"></a>
 Rollstuhl.
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1">
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1"></a>
 Knabe mit Stange.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022500866/in/album-72157666406097825/" title="2016-03-25 13.52.51"><img src="https://farm2.staticflickr.com/1640/26022500866_558d04cd17_z.jpg" width="480" height="640" alt="2016-03-25 13.52.51"></a>
@@ -211,11 +218,9 @@ Auf hier und dort und in nun gar nicht mehr so weite Ferne vorort
 Euer j.
 
 # Sechste Postkarte
-(noch in Arbeit)
+(noch in Arbeit, erg. 18.9.)
 
 *… über den zweiten Abstecher in den Regenwald*
-
-Im Regenwald gab es eine [Harpyie](https://de.wikipedia.org/wiki/Harpyie_%28Vogel%29).
 
 ## Vorbereitung
 Einkauf von:
@@ -244,6 +249,69 @@ Wir haben aber keinen [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) getru
 
 Eine Karte der Ölblöcke im [Nationalpark Yasuní](https://tools.wmflabs.org/reasonator/?q=Q1641326) gibt es im Artikel *[Deforestation ramping up in Yasuni as Ecuador sets to open up national park to drilling](https://news.mongabay.com/2014/07/deforestation-ramping-up-in-yasuni-as-ecuador-sets-to-open-up-national-park-to-drilling/)* auf mongabay.com.
 
+## *Freitag, 1.4.* ¡Vamos ya!
+
+Famultur finido, PJ de vacaciones, auf nach Cumbayá, dort gilt es mit der [Uni](https://de.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito) noch ein paar administrative Dinge abzuhandeln. Wo gibt es einen Bus in die Amazonia, Richtung Lago Agrio?
+
+Die Ölblöcke und die Straßen zu ihnen bestimmen zwischen Regenwald und nicht mehr Regenwald. Die Nacht ist schon angekommen und wir in Lago Agrio am Busbahnhof. Es gibt Angenehmeres als von hier in die Stadt zu laufen zu dieser Stunde. Und siehe da, es gibt eine Herberge, das Gatter wird noch einmal geöffnet, sogar Handtücher gibt es für etwas wie 6$ (ich weiß es nicht mehr genau).
+
+## *Samstag, 2.4.*
+
+Lago Agrio ist die Hauptstadt des Öls. „Lago Agrio“! – auch wenn sie eigentlich Nueva Loja heißt. Keine Touristenmassen, mehr realidad. Am Morgen gilt es früh aufzustehen, um einen Bus zu einem Ölblock zu bekommen – denken wir uns. Pah! Es ist komplizierter, gar nicht so klar, wann die Busse wohin fahren, aber – so erfahren wir – in Shushufindi gibt es Ölblöcke. Und dorthin einen Bus! Fein! Tatsächlich, da fackelt es! In einem Hotel bekommen wir WLAN, denn wir wollen nach Pisa schreiben!
+
+Es ist in der Hitze mit unserem merkwürdigen Gepäck mit seinen Gummistiefeln ein gutes Stück zu Fuß bis zu einem hoffnungsverheißenden Eingang eines Ölfeldes ([osm](https://www.openstreetmap.org/#map=19/-0.19996/-76.65847)). Offenbar ist es möglich, die Ölfelder zu besichtigen, aber nur nach schriftlicher Voranmeldung, am besten von einer Uni. Wir haben noch eine Weile auf den Vorsteher gewartet und ihn bekniet. Aber es ließ sich leider nichts machen, wir durften nicht hinein!
+
+Dann zum [Naturreservat Cuyabeno](https://de.wikipedia.org/wiki/Naturreservat_Cuyabeno) in Richtung der kolumbianischen Grenze. Ah nein, zu spät ausgestiegen!
+
+Welch eine Herberge! Dos chicos los más gentiles imaginables! Schweine, Hüner, Papageien! Wir haben zusammen zu Abend gegessen und am Morgen gefrühstückt, Fußball gespielt – ziemlich aussichtslos gegen zwei doch wesentlich Kleinere zwischen allem Hausrat, zwischen dem sie sich ganz flink hindurchschlängeln können, im unbewandeten Erdgeschoss!
+
+## *Sonntag, 3.4.* Auf dem Río Cuyabeno zu den Indigenen
+
+Auf der Straße hat es sich praktisch und günstig reisen lassen. Nun gibt es keine Straße mehr und jeder kleinste Weg wird kompliziert.
+
+So geht es mit dem Boot weiter. Wir haben Glück und dürfen bei einem Transport zu einer Lodge mitfahren und werden auf der [Guacamayo Eco Lodge](http://www.guacamayoecolodge.com/) aufgenommen.
+
+Lodges gibt es einige. Es sind recht unattraktive Einrichtungen, bei denen man sich wunderschöne Natur- und Indigenen-Bespaßung kaufen kann, also schon sicherlich interessant, aber nichts, was wir nun so recht vermissen.
+
+Auf unserer gibt es auch ein paar Deutsche, sonst noch US-Amerikaner und andere, teilweise ganz nett. Sie haben wohl alle genug Geld. Das haben wir nicht, jedenfalls jetzt nicht.
+Ich habe in Quito beschlossen, dass es vielleicht besser ist gar nicht so viel mitzunehmen, um sich nicht dazu verleiten zu lassen, sich etwas zu erkaufen, B hat ein bisschen mehr mitnehmen wollen, was mir auch nicht verkehrt vorgekommen ist, aber aus irgendeinem grund habe ich statt der wohl vereinbarten 280 nur 180$ eingesteckt. Das ist noch abzüglich der Ausrüstung nicht allzu viel für die geplante Woche, zumal wir eine Sicherheitsreserve brauchen, am Sonntag geht der nicht zu verpassende Flug! Bezahlen können wir den Lodgefahrern also für die Transporte wirklich nichts, die 50$, die sie vorschlagen schon gar nicht.
+
+Wir werden verköstigt und müssen dafür arbeiten – jedenfalls handhaben wir es so in der Hoffnung auf weitere Fahrt und tatsächlich, nach einigen Stunden ist man es leid uns auszuhalten, telephoniert an die Häuptlinge und beschließt uns gar auf eigene Kosten weiterzubefördern, nach Puerto Bolívar.
+
+Unter dem Fußballdach schlagen wir unser Zelt auf.
+
+## *Montag, 4.4.* In Puerto Bolívar
+Heute müssen wir nach San Victoriano, um vom Oberhäuptling die Erlaubnis einzuholen, dass wir bleiben dürfen.
+
+Am nächsten Morgen soll es weiter gehen, auch wenn wir nicht zu dem Shamanen kommen. Weiter den Fluss herunterzufahren ist uns zeitlich recht aufwendig erschienen, zumal man uns erzälte, dass die Modernisierung dort noch weiter vorangeschritten ist.
+
+## *Dienstag, 5.4.* Nächster Versuch
+Der Wecker klingelt früh. Wir müssen packen und wollen unser Boot auf keinen Fall verpassen.
+
+Auf dem Rückweg hinter dem Dorf Tarapuy auf dem Río Tarapuy haben wir eine [Harpyie](https://de.wikipedia.org/wiki/Harpyie_%28Vogel%29) gesehen!
+
+Mit dem Bus geht es wieder Richtung Süden, mit der Fähre zwischen Pacayacu und Aguarico Tres über den Río Aguarico zurück und nach Shushufindi und weiter gen Süden nach Limoncocha zum Río Napo, hier gibt es nur wenige Busse.
+Wir kommen nicht weiter – oder entscheiden, es nicht zu versuchen und beschließen, die noch verbleibenden Reisetage für einen Abstecher in die gänzlich andere Richtung, nach Cuenca zu nutzen.
+
+Nun galt es noch rasch vor dem Abend nach Coca zu kommen, um einen Nachtbus nach Cuenca zu bekommen, über Ambato, Riobamba ganz in den Süden. Die Sonne weckt die Fahrgäste und es tut sich das herrliche Tal zwischen den Andenkämmen zur Proinz Azuay auf!
+
+## *Mittwoch, 6.4.* In Cuenca
+Catedral de la Inmaculada, …
+
+Die Herbegssuche am Abend war schwierig.
+
+## *Donnerstag, 7.4.* Cuenca und Rückfahrt nach Quito
+Wir sehen das Museo de las Culturas Aborigenes, das ethnographischen Museum des Banco Central und das medizinhistorische Museum.
+
+An diesem oder dem vorigen Tag noch die Catedral Vieja, das Kloster mit Kolonialkunst und einige Kirchen.
+
+## Zwei letzte ecuadorianische Tage
+Der Abschied fällt nicht leicht, so angenehm der Rückflug ist. Aber en verdad!
+
+Die Menschen, die in den USA leben müssen, werde ich nicht beneiden. Sie sehen so merkwürdig aus und ihr Land von oben so öd. New York City ist etwas anderes, aber auch wohl nicht der größte Teil.
+
+Philly hat einen angenehmen Flughafen.
+
 # Siebte Postkarte
 (noch in Arbeit)
 <!--TODO: besser in anderen Postkarten einflechten!-->
@@ -271,7 +339,12 @@ Einiges Ess- und Trinkbares:
   <figcaption>Achotillo</figcaption>
 </figure>
 
-<a href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" style="float:right;clear:right" alt="Granadilla"></a>
+<figure style="float:right;clear:right">
+  <a href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" alt="Granadilla"></a>
+  <figcaption>Granadilla</figcaption>
+</figure>
+
+
 Besondere Früchte:
 * [tomate de árbol](https://tools.wmflabs.org/reasonator/?q=Q379747)
 * [taxo](https://tools.wmflabs.org/reasonator/?q=Q415622)
@@ -294,6 +367,7 @@ Es gibt reichlich HIV und Tb und Hep B, das weil erst irgendwann in den 90er Jah
 
 Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 
+---
 
 # Außerhalb der Reihe
 ## An die Danaer und das liebe Christkind
@@ -301,6 +375,49 @@ Von nun an wünsche ich mir – sofern nicht anders angegenben und Lebensmittel 
 
 ## Warum ich die Kirchensteuer künftig nicht mehr zu zahlen gedenke und in der Kirche nicht spende
 …
+
+
+# Entwurfsteile für die Abhandlung „Grundlegung zu einer Kritik des Güterverkehrs“
+(the following is also important for the dona accepta chapter)
+
+
+this might be one brick in the fundament of a postanticommunist society
+
+„antimaterialist communism“ is possible (KWRG’s Dr. Marx opposed once, but he might not be completely right if we introduce the materialism agnostic. neither does it contradict the virtue of [poverty](https://de.wikipedia.org/wiki/Armut#Freiwillig_gew.C3.A4hlte_Armut)).
+
+gebe ich jemandem die mir nun noch verbleibende Hälfte des Bahn-Jugend-Sommer-Karte, sollte er mir geben, was ich besser brauchen kann als er.
+aus dem gleichen grund gebe ich ihm das ticket.
+er sollte mir auch unabhaengig davon geben.
+es gibt allerdings wieder einen zusammenhand der gestalt, dass die wahrscheinlichkeit, dass ich etwas besser gebrauchen kann als er, dadurch, dass ich etwas abgebe, er etwas annimmt, steigt.
+
+## (vor-)exkurs<!-- hier? -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Triangle_warning_sign_%28red_and_white%29.svg/200px-Triangle_warning_sign_%28red_and_white%29.svg.png" alt="Granadilla" style="float:right;clear:right">
+
+damit zusammen haengt das unreflektierte streben nach (koerperlicher) sicherheit – gesundheit; sicherheit vor allen moeglichen physischen/materiellen gefahren:
+feuermelder her!
+lebensmittelsicherheit! verbietet den verkauf von simit und allem auf der strasse!
+todessicherheit! pharmaziert! prothesiert! transplantiert!
+
+ich schreibe das aus einer ueberaus privilegierten lage, persoenlich privilegiert, gesellschaftlich privilegiert.
+die persoenliche privilegiertheit fuer die gesellschaft in anschlag zu bringen, waere anmassend, die gesellschaftliche fuer die gesellschaft aber nicht.
+vielmehr ist es pflicht eines nicht isolierten (absolut isolierte gibt es nicht, soweit ich es ueberblicke) vernunftbegabten subjektes, seine privilegiertheit gegenueber allem ausserhalb seines grenzgebietes (oder auch innerhalb seiner selbst, so ist oftmals eine hand gegenueber der anderen privilegiert) zu reflektieren und nach der reflexion zu handeln.
+
+der anteil … <!-- TODO -->
+
+## zur verwendung der sprache
+„possessivpronomina“ sind in der hier verbreiteten verwendung proprietatistisch
+
+## wider den antiidealismus
+wer sicher vergeblich im sinn hat, millionaer zu werden, wird einen riesen auch nicht deshalb ablehnen, weil er weiss, dass er nie millionaer werden wird.
+
+## ueber heimat
+ein zuhause, eine heimat sind etwas patriotistisches, nicht gerade open minded
+
+# diarium
+## 2016-09-17T22:40
+ich koennte zu Tönis firmung auch in einem buddhistischen moenchsgewand kommen, das waere noch moeglich, der kimono ist nicht sakral genug, zu profan.
+
 
 
 <!--
@@ -341,7 +458,7 @@ Wenn vielleicht in einigem, so haben mich die letzten Tage mindestens was die tr
 
 # Steinbruch
 2016-02-24T07:58-06:00
-Being in the US makes me understand more of the world, explains Western influence in Japan finally, Europe didn't do it. Let's me see the world more like the village it is.
+Being in the US makes me understand more of the world, explains Western influence in Japan finally, Europe didn't do it. Let's me see the world more like a village.
 
 -25-4T16 im native American Museum
 je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation pf a relevant part of reality that is essential to your everyday life though you might not notice it.
