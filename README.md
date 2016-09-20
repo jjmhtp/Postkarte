@@ -6,7 +6,8 @@
 Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr.
 
 Es handelt sich auch um ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist.
-</header><!-- TODO: why this?-->
+</header>
+<!-- TODO: why this?-->
 
 Ich versuche, auch einen LOD Experimentierseite zusammenzustellen aus dem, was sich ohnehin an Blödsinn in dieser Richtung bei mir angesammelt hat.
 
