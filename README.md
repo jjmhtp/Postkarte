@@ -1,38 +1,62 @@
-<header><big>**!أهْلاً وَسَهْلاً<br />Postkarten aus der Neuen Welt**</big>
+<header><big>**!أهْلاً وَسَهْلاً**</big>
 =====
+
 <!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
-und mehr.
-</header>
 
-noch mehr auf [twitter](https://twitter.com/jjmhtp), [fb](https://www.facebook.com/jjmhtpjjmhtp), [last.fm](http://www.last.fm/user/jjmhtp), [zotero](https://www.zotero.org/jjmhtp),
-[wikimedia](https://www.wikidata.org/wiki/User:Marsupium),
-etc.
+Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr.
 
-<figure><!-- sadly Github does not parse this -->
+Es handelt sich auch um ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist.
+</header><!-- TODO: why this?-->
+
+Ich versuche, auch einen LOD Experimentierseite zusammenzustellen aus dem, was sich ohnehin an Blödsinn in dieser Richtung bei mir angesammelt hat.
+
+Einiges anderes findet sich bei [Flickr](https://www.flickr.com/photos/jjmhtp),
+[Twitter](https://twitter.com/jjmhtp), [fb](https://www.facebook.com/jjmhtpjjmhtp), [Last.fm](http://www.last.fm/user/jjmhtp), [Zotero](https://www.zotero.org/jjmhtp),
+[Wikimedia](https://www.wikidata.org/wiki/User:Marsupium),
+[Github](github.com/jjmhtp)
+und andernorts
+
+<!--<figure>
 <a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
 <figcaption>Im Central Park, NYC.</figcaption>
-</figure>
-
-
-**Mehr Bilder [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) …**
+</figure>-->
+<!-- sadly Github did not parse this -->
 
 
 <figure>
-<iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
-<figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
+<iframe width="100%" height="100px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
+<figcaption>… und hier bei den: Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
 </figure>
 
 </header>
+<!-- TODO: here? -->
 
 <main>
 
 # Inhalt
-* [Postkarte aus der Neuen Welt](#postkarte-aus-der-neuen-welt)
-* [Zweite Postkarte aus der Neuen Welt](#zweite-postkarte-aus-der-neuen-welt)
-* [Dritte Postkarte](#dritte-postkarte)
-* [Vierte Postkarte](#vierte-postkarte)
-* [Fünfte Postkarte](#fünfte-postkarte)
-* [Sechste Postkarte](#sechste-postkarte)
+<!-- TODO: this and some other headings should not appear! manually deleting it? -->
+
+<!-- TOC depthFrom:1 depthTo:1 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Inhalt](#inhalt)
+- [Postkarte aus der Neuen Welt](#postkarte-aus-der-neuen-welt)
+- [Eineinhalbte Postkarte aus der Neuen Welt](#eineinhalbte-postkarte-aus-der-neuen-welt)
+- [1,6te Postkarte aus der Neuen Welt](#16te-postkarte-aus-der-neuen-welt)
+- [Zweite Postkarte aus der Neuen Welt](#zweite-postkarte-aus-der-neuen-welt)
+- [Dritte Postkarte](#dritte-postkarte)
+- [Vierte Postkarte](#vierte-postkarte)
+- [Fünfte Postkarte](#fünfte-postkarte)
+- [Sechste Postkarte](#sechste-postkarte)
+- [Siebte Postkarte](#siebte-postkarte)
+- [Achte Postkarte](#achte-postkarte)
+- [Neunte Postkarte](#neunte-postkarte)
+- [An die Danaer](#an-die-danaer)
+- [Über die Kirchensteuer und die Kollekte im Gottesdienst](#über-die-kirchensteuer-und-die-kollekte-im-gottesdienst)
+- [Grundlegung zu einer Kritik des Güterverkehrs](#grundlegung-zu-einer-kritik-des-güterverkehrs)
+- [diarium 2016-09-17T22:40](#diarium-2016-09-17t2240)
+
+<!-- /TOC -->
+
 
 # Postkarte aus der Neuen Welt
 
@@ -79,6 +103,31 @@ Aber zu den Museen später mehr!
 * *27.2., 14:15 Uhr, 5 666 m ü. NN*  Seatbelts fasted, Notebook aus, Klappe zu.
 
 
+# Eineinhalbte Postkarte aus der Neuen Welt
+
+*… von einer abendländischen Bilderflut auf der anderen Seite des Teiches*
+
+Das MET ist unfassbar!
+
+[mehr folgt] [also vielleicht]
+<!-- TODO -->
+
+
+# 1,6te Postkarte aus der Neuen Welt
+
+*… über meine unerwartete neue Freundschaft mit der deutschen Küche*
+
+Wenn vielleicht in einigem, so haben mich die letzten Tage mindestens was die traditionellen Hungerbekämpfungsriten deutscher Lande betrifft, milde gestimmt.
+
+Hier gibt es für uns:
+* aus dem Supermarkt Bagels,
+* ein Abendessen deutscher Cuisine mit den Vernons,
+* die Rutgers Mensa und
+* einen arabischer Stand in Manhatten gleich beim MoMa.
+
+Das alles bedarf allerhand Gewöhnung – und auch das wird scheitern. 😱
+
+
 # Zweite Postkarte aus der Neuen Welt
 
 *… in welcher etwas, aber nicht viel über die mittlerweile einen Monat zurückliegenden ersten Tage im Äquator zu lesen ist*
@@ -93,7 +142,9 @@ Ich will erst über das weniger lange Zurückliegende schreiben, ehe es mir so w
 
 Es grüßt Euer Euch stets ergebener j.
 
-PS: In Ecuador ist nach und nach eine [kleine Literatursammlung](https://www.zotero.org/jjmhtp/items/collectionKey/MRKFRNJZ) entstanden mit ein paar interessanten Titeln zu ein paar Dingen, die im Folgenden begegnen.
+PS: Einige ecuadorianische Bilder habe ich [auf Flickr](https://www.flickr.com/photos/jjmhtp/sets/72157666406097825) abgelegt.
+
+PPS: In Ecuador ist nach und nach eine [kleine Literatursammlung](https://www.zotero.org/jjmhtp/items/collectionKey/MRKFRNJZ) entstanden mit ein paar Titeln zu Dingen, die im Folgenden begegnen.
 
 # Dritte Postkarte
 
@@ -238,14 +289,7 @@ Euer j.
 
 *… über den zweiten Abstecher in den Regenwald*
 
-## Vorbereitung
-Einkauf von:
-* Stiefeln für 10 $ pro Paar,
-* einem Zelt für 20 $,
-* einer Machete für 7 $ und später in Shushufindi einer Feile,
-* einer Stirnlampe.
-
-### from:	A\*\*\*<br/>
+## from:	A\*\*\*<br/>
 <!--TODO: improve formatting!?-->
 to:	Johannes<br/>
 date:	Sat, Apr 2, 2016 at 2:45 AM<br/>
@@ -261,17 +305,31 @@ subject:	Re: Camping in Ecuador
 >
 >A***
 
-Wir haben aber keinen [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) getrunken.
+## Vorbereitungen
+Viel Hilfe hatten wir schon zuvor von ornithologischer Seite …
+<!-- TODO -->
+
+Wir haben dann aber doch keinen [Ayahuasca](https://en.wikipedia.org/wiki/Ayahuasca) getrunken.
 
 Eine Karte der Ölblöcke im [Nationalpark Yasuní](https://tools.wmflabs.org/reasonator/?q=Q1641326) gibt es im Artikel *[Deforestation ramping up in Yasuni as Ecuador sets to open up national park to drilling](https://news.mongabay.com/2014/07/deforestation-ramping-up-in-yasuni-as-ecuador-sets-to-open-up-national-park-to-drilling/)* auf mongabay.com.
 
+Am Donnerstag gilt es noch einzukaufen:
+* Stiefeln für 10 $ pro Paar,
+* einem Zelt für 20 $ (das wir aber erst am nächsten Tag kaufen?),
+* einer Machete für 7 $ und später in Shushufindi einer Feile,
+* einer Stirnlampe.
+
 ## *Freitag, 1.4.* ¡Vamos ya!
 
-Famultur finido, PJ de vacaciones, auf nach Cumbayá, dort gilt es mit der [Uni](https://de.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito) noch ein paar administrative Dinge abzuhandeln. Wo gibt es einen Bus in die Amazonia, Richtung Lago Agrio?
+Famultur finido, PJ de vacaciones!
+
+Rasch noch zum Einkauf des Zeltes!
+
+Und auf nach Cumbayá, dort gilt es mit der [Uni](https://de.wikipedia.org/wiki/Universidad_San_Francisco_de_Quito) noch ein paar administrative Dinge abzuhandeln. Wo gibt es einen Bus in die Amazonia, Richtung Lago Agrio?
 
 Die Ölblöcke und die Straßen zu ihnen bestimmen zwischen Regenwald und nicht mehr Regenwald. Die Nacht ist schon angekommen und wir in Lago Agrio am Busbahnhof. Es gibt Angenehmeres als von hier in die Stadt zu laufen zu dieser Stunde. Und siehe da, es gibt eine Herberge, das Gatter wird noch einmal geöffnet, sogar Handtücher gibt es für etwas wie 6$ (ich weiß es nicht mehr genau).
 
-## *Samstag, 2.4.*
+## *Samstag, 2.4.* Öl und nationale Kolonisation
 
 Lago Agrio ist die Hauptstadt des Öls. „Lago Agrio“! – auch wenn sie eigentlich Nueva Loja heißt. Keine Touristenmassen, mehr realidad. Am Morgen gilt es früh aufzustehen, um einen Bus zu einem Ölblock zu bekommen – denken wir uns. Pah! Es ist komplizierter, gar nicht so klar, wann die Busse wohin fahren, aber – so erfahren wir – in Shushufindi gibt es Ölblöcke. Und dorthin einen Bus! Fein! Tatsächlich, da fackelt es! In einem Hotel bekommen wir WLAN, denn wir wollen nach Pisa schreiben!
 
@@ -324,9 +382,21 @@ An diesem oder dem vorigen Tag noch die Catedral Vieja, das Kloster mit Kolonial
 ## Zwei letzte ecuadorianische Tage
 Der Abschied fällt nicht leicht, so angenehm der Rückflug ist. Aber en verdad!
 
-Die Menschen, die in den USA leben müssen, werde ich nicht beneiden. Sie sehen so merkwürdig aus und ihr Land von oben so öd. New York City ist etwas anderes, aber auch wohl nicht der größte Teil.
+Die Menschen, die in den USA leben (müssen), werde ich nicht beneiden. Sie sehen so merkwürdig aus und ihr Land von oben so öd. New York City ist etwas anderes, aber auch wohl nicht der größte Teil.
+
+Aber es gibt furchtbar nette Leute, schon im Hinzug der Schaffner im Amtrak, in dem ich mit meiner Fahrkarte nicht fahren durfte, ein anderer, der uns zum Flughafen Newark half und mitten in der Nacht ein wenig mit uns mitfuhr. Nur im Museum of the Native American gab es einen entsetzlich unfreundlichen Wärter, der uns schon für das abstellen des Koffers in fünf Metern Entfernung unentwegt rügte.
 
 Philly hat einen angenehmen Flughafen.
+
+Ex diario (komischer Müll):
+
+## 2016-02-24T07:58-06:00
+Being in the US makes me understand another part of the world, explains Western influence in Japan finally, Europe didn't do that. Makes me see the world more like a village.
+HAHA WHAT A GRAMMAR!
+
+## 2016-02-25-4T16 im Native American Museum
+je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation of a relevant part of reality that is essential to your everyday life though you might not notice it.
+
 
 # Siebte Postkarte
 (noch in Arbeit)
@@ -383,30 +453,48 @@ Es gibt reichlich HIV und Tb und Hep B, das weil erst irgendwann in den 90er Jah
 
 Es gibt haufenweise Pinguecula wohl wegen des vielen Smogs.
 
+
+# Neunte Postkarte
+*… zur Kolonialkunst*
+
+Es gibt einiges zu berichten! Bloß wann? vielleicht ergänze ich es irgendwann, vielleicht nicht. An Bildthemata bekamen wir neben anderem an Besonderem ein Gemälde mit Mariensymbolen, das war glaube ich in Cuenca, ich muss das Photo noch einmal suchen. Folgendes hilft, die Ikonographie zu entschlüsseln – gerade kein LCI zu Hand leider:
+* <https://it.wikipedia.org/wiki/Titoli_mariani>
+* <https://de.wikipedia.org/wiki/Mariensymbol>
+* <http://www.iconclass.org/rkd/11L22/>
+* <http://www.iconclass.org/rkd/71X24/>
+* <http://www.iconclass.org/rkd/11F111%28...%29/>
+
+
 ---
 
-# Außerhalb der Reihe
-## An die Danaer und das liebe Christkind
+# An die Danaer
+
+*… und das liebe Christkind*
+
 Von nun an wünsche ich mir – sofern nicht anders angegenben und Lebensmittel und gebrauchte oder Second-Hand-Dinge ausgenommen – nur noch Dinge, die nicht mit Geld erworben wurden, also vielleicht selbst Geschneidertes oder Geschriebenes oder kostenlos erworbenes Immaterielles wie Musik-, Film- oder Buchdateien.
 
-## Warum ich die Kirchensteuer künftig nicht mehr zu zahlen gedenke und in der Kirche nicht spende
-…
+# Über die Kirchensteuer und die Kollekte im Gottesdienst
+
+*… und warum ich die erste künftig nicht mehr zu zahlen gedenke*
+
+[folgt] [also vielleicht]
 
 
-# Entwurfsteile für die Abhandlung „Grundlegung zu einer Kritik des Güterverkehrs“
+# Grundlegung zu einer Kritik des Güterverkehrs
 <!-- the following is also important for the dona accepta chapter which in turn might get integrated here? -->
+**Teile eines Entwurfes**
 
-
-this might be one brick in the fundament of a postanticommunist society
+this might be a hint to a postanticommunist society.
 
 „antimaterialist communism“ is possible (KWRG’s Dr. Marx opposed once, but he might not be completely right if we introduce the materialism agnostic. neither does it contradict the virtue of [poverty](https://de.wikipedia.org/wiki/Armut#Freiwillig_gew.C3.A4hlte_Armut)).
 
-gebe ich jemandem die mir nun noch verbleibende Hälfte des Bahn-Jugend-Sommer-Karte, sollte er mir geben, was ich besser brauchen kann als er.
+gebe ich jemandem die mir nun noch verbleibende Hälfte des bahn-jugend-sommer-karte, sollte er mir geben, was ich besser brauchen kann als er.
 aus dem gleichen grund gebe ich ihm das ticket.
 er sollte mir auch unabhaengig davon geben.
 es gibt allerdings wieder einen zusammenhand der gestalt, dass die wahrscheinlichkeit, dass ich etwas besser gebrauchen kann als er, dadurch, dass ich etwas abgebe, er etwas annimmt, steigt.
 
 ## (vor-)exkurs
+
 <!-- hier? -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Triangle_warning_sign_%28red_and_white%29.svg/200px-Triangle_warning_sign_%28red_and_white%29.svg.png" alt="Granadilla" style="float:right;clear:right">
@@ -430,57 +518,15 @@ der anteil …
 wer sicher vergeblich im sinn hat, millionaer zu werden, wird einen riesen auch nicht deshalb ablehnen, weil er weiss, dass er nie millionaer werden wird.
 
 ## ueber heimat
-ein zuhause, eine heimat sind etwas patriotistisches, nicht gerade open minded
+ein zuhause, eine heimat sind etwas patriotistisches, oft orts- somit physisch gebunden, nicht gerade open minded.
 
-# diarium
-## 2016-09-17T22:40
+<!-- TODO: upload Bayern? Nein danke -->
+
+# diarium 2016-09-17T22:40
 ich koennte zu Tönis firmung auch in einem buddhistischen moenchsgewand kommen, das waere noch moeglich, der kimono ist nicht sakral genug, zu profan.
 
 
 
-<!--
-
-# Kolonialkunst
-https://it.wikipedia.org/wiki/Titoli_mariani
-
-https://de.wikipedia.org/wiki/Mariensymbol
-
-http://www.iconclass.org/rkd/11L22/
-
-http://www.iconclass.org/rkd/71X24/
-
-http://www.iconclass.org/rkd/11F111%28...%29/
-
-
-# Ornithologie
-
-# US people
-furchtbar nette Leute: schon im Hinzug der Schaffner,
-der Helfer nach ERW
-nur im Museum of the Native American nicht
-
-
-# Zweite Postkarte aus der Neuen Welt
-… von einer abendländischen Bilderflut auf der anderen Seite des Teiches
-
-# Dritte Postkarte aus der Neuen Welt
-… über meine unerwartete neue Freundschaft mit der deutschen Küche😱
-
-Wenn vielleicht in einigem, so haben mich die letzten Tage mindestens was die traditionellen Hungerbekämpfungsriten deutscher Lande betrifft,
-
-* Supermarkt: Bagels
-* Abendessen mit den Vernons
-* Rutgers Mensa
-* arabischer Stand
-
-
-# Steinbruch
-2016-02-24T07:58-06:00
-Being in the US makes me understand more of the world, explains Western influence in Japan finally, Europe didn't do it. Let's me see the world more like a village.
-
--25-4T16 im native American Museum
-je nachdem wie man reist, verändert sich die Repräsentation der Welt bei einem in unterschiedlicher Weise nat, eventually it gets smaller. that is probably good. today nothing is not connected, not even the so called disconnected peoples. so you improve your representation pf a relevant part of reality that is essential to your everyday life though you might not notice it.
--->
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
