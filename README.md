@@ -1,15 +1,16 @@
 <header><big>**!أهْلاً وَسَهْلاً<br />Postkarten aus der Neuen Welt**</big>
 =====
-<!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->und mehr.
+<!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
+und mehr.
 </header>
 
 noch mehr auf [twitter](https://twitter.com/jjmhtp), [fb](https://www.facebook.com/jjmhtpjjmhtp), [last.fm](http://www.last.fm/user/jjmhtp), [zotero](https://www.zotero.org/jjmhtp),
 [wikimedia](https://www.wikidata.org/wiki/User:Marsupium),
 etc.
 
-<figure>
-  <a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
-  <figcaption>Im Central Park, NYC.</figcaption>
+<figure><!-- sadly Github does not parse this -->
+<a href="https://www.flickr.com/photos/jjmhtp/27711757764/in/dateposted/" title="Central Park"><img src="https://c5.staticflickr.com/9/8644/27711757764_5da3a31b1e_z.jpg" width="100%" alt="Central Park"></a>
+<figcaption>Im Central Park, NYC.</figcaption>
 </figure>
 
 
@@ -17,8 +18,8 @@ etc.
 
 
 <figure>
-  <iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
-  <figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
+<iframe width="100%" height="200px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/jjs-movements_94451?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><!-- some workaround needed bc https://github.com/github/markup/issues/538 -->
+<figcaption>Reiserouten (beta) – im Moment nur zwei Streifzüge in München [full window](https://umap.openstreetmap.fr/en/map/jjs-movements_94451)<!-- TODO: not rendered correctly --></figcaption>
 </figure>
 
 </header>
@@ -58,7 +59,7 @@ Der Flug ging mit der Sonne durch den Tag, aber es war recht wolkig. Ich habe im
 * *27.2., 10:30 Uhr*  Die Tische dürfen wieder ausgeklappt werden, unten erscheint gerade die Küste Cubas mit einer kleinen Hafenstadt ![Bild folgt]()
 * *27.2., 10:50, 11 876 m ü. NN*  Während ich schreibe ist Cuba schon wieder vorüber, weil ich zuviel schauen musste …!, nun das Karibische Meer. Wo ist das Schiff vom Pichlerschen?
 
-Weiter von vorn!: So trudelte ich also mit dem Regionalzug von Philly in New Jersey mit dem Tunnel unter dem Hudson River unterirdisch an Penn Station in Manhattan ein, traf den armen Bernie, der beinahe drei Stunden auf mich warten hatte müssen und wir haben uns bloß rasch an die Erdoberfläche durchgeschlagen – Reklame überall ![Bild folgt]() – und uns auf den Weg zu unserer Herberge in Queens gemacht.
+Weiter von vorn!: So trudelte ich also mit dem Regionalzug von Philly in New Jersey mit dem Tunnel unter dem Hudson River unterirdisch an Penn Station in Manhattan ein, traf den armen B\*\*\*, der beinahe drei Stunden auf mich warten hatte müssen und wir haben uns bloß rasch an die Erdoberfläche durchgeschlagen – Reklame überall ![Bild folgt]() – und uns auf den Weg zu unserer Herberge in Queens gemacht.
 
 * *27.2., 12:10 Uhr, 11 997 m. ü. NN, 772 km/h*  Unten taucht das nicaraguanische Eiland Miskito Cay auf. ![Bild folgt]() Das Festland ist zu weit weg unter einer Wolkenfront, um es zu sehen. Eben gab es ein kleines Mittagessen, ganz nach amerikanischer Art, so wie wir es schon manchmal in den letzten Tagen hatten, also grauenhaft! Man kann das Futter dieser Vereinigten Fastfoodfresser schon so essen, es schmeckt meistens ähnlich gut wie Haferflocken mit Wasser; dabei ist es aber weder günstig noch gar dem Mastamerikaner oder Masttouristen zuträglich. Also einfach grauenhaft!
 *27.2., 12:28 Uhr, 11 994 m ü. NN*  Archipiélago de San Andrés, Providencia y Santa Catalina ![Bild folgt]()
@@ -102,7 +103,7 @@ PS: In Ecuador ist nach und nach eine [kleine Literatursammlung](https://www.zot
 
 Meine Lieben,
 
-dieser Tage habe ich und Bernie mit mir für ein paar Nächte recht weit im Norden im Viertel San Carlos – genau: Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei einem gerade zur Beherbergung deutscher Medizinstudenten noch nicht zu betagten Ehepaar gewohnt und ab Montag, dem 7. März im Hospital Carlos Andrade Marín im Viertel America angefangen, Bernie im Hospital de los Valles, dem luxeriösen Krankenhaus einer Privatuniversität im Nobelvorort unter der Bergabrisskante.
+dieser Tage habe ich und B\*\*\* mit mir für ein paar Nächte recht weit im Norden im Viertel San Carlos – genau: Emperador Carlos Quinto y Sor Francisca de las Llagas N55-19, Quito, Ecuador – bei einem gerade zur Beherbergung deutscher Medizinstudenten noch nicht zu betagten Ehepaar gewohnt und ab Montag, dem 7. März im Hospital Carlos Andrade Marín im Viertel America angefangen, B\*\*\* im Hospital de los Valles, dem luxeriösen Krankenhaus einer Privatuniversität im Nobelvorort unter der Bergabrisskante.
 
 Das Wochenende vom 12. brachte uns den Besuch unserer deutsch-indigenen Hochzeit ein, mir dem Dienst entfliehend noch einen Tag im Regenwald, das vom 19. einen Ausflug an die Küste, über das beides ich aber auch lieber später bei Gelegeheit mehr schreibe und vorerst mit wärmsten Grüßen schließe!
 
@@ -117,7 +118,7 @@ Musikalische Eindrücke sind etwa solche: [Musik](https://www.youtube.com/watch?
 
 Meine Lieben,
 
-zum Karmontag hat Bernie auch in die Infektiologie des Hospital Carlos Andrade Marín gewechselt und ich mein Domizil ins Viertel Armero schon in den Hängen der Ausläufer des Vulkanes Pichincha mit Aussicht auf die sich unten in alles quellend ausdehnende Stadt.
+zum Karmontag hat B\*\*\* auch in die Infektiologie des Hospital Carlos Andrade Marín gewechselt und ich mein Domizil ins Viertel Armero schon in den Hängen der Ausläufer des Vulkanes Pichincha mit Aussicht auf die sich unten in alles quellend ausdehnende Stadt.
 
 ## Procesión de las luces
 
@@ -155,6 +156,7 @@ Die Procesión Jesús del Gran Poder in Quito ist eine Prozession, die seit _lan
 <!--TODO-->
 
 Eine interessante Zeichnung der Prozession findet sich bei [Alcide d'Orbigny](https://en.wikipedia.org/wiki/Alcide_d%27Orbigny) in seiner [Voyage pittoresque dans les deux Amériques](https://archive.org/details/voyagepittoresque00orbirich):
+
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/jjmhtp/26032047802/in/datetaken/" title="Quito"><img src="https://farm2.staticflickr.com/1613/26032047802_b25169cb16_z.jpg" width="640" height="480" alt="Quito"></a>
 
 Es gibt allerlei Figuren, so
@@ -162,45 +164,59 @@ Es gibt allerlei Figuren, so
 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022595326/in/album-72157666406097825/" title="2016-03-25 13.20.15"><img src="https://farm2.staticflickr.com/1698/26022595326_ff529a668b_z.jpg" width="640" height="480" alt="2016-03-25 13.20.15"></a>
+
 Ein Stangengebundener.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982148641/in/album-72157666406097825/" title="2016-03-25 13.22.00"><img src="https://farm2.staticflickr.com/1505/25982148641_9d130bdcd8_z.jpg" width="640" height="480" alt="2016-03-25 13.22.00"></a>
+
 Kinder mit Kreuz.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775648730/in/album-72157666406097825/" title="2016-03-25 13.32.06"><img src="https://farm2.staticflickr.com/1705/25775648730_b149ebb078_z.jpg" width="640" height="480" alt="2016-03-25 13.32.06"></a>
+
 JESUS TE AMO.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443726164/in/album-72157666406097825/" title="2016-03-25 13.34.06"><img src="https://farm2.staticflickr.com/1715/25443726164_cb7c29dea5_z.jpg" width="640" height="480" alt="2016-03-25 13.34.06"></a>
+
 Gepeinigter Jesus.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25982117561/in/album-72157666406097825/" title="2016-03-25 13.35.16"><img src="https://farm2.staticflickr.com/1556/25982117561_4c7311087b_z.jpg" width="640" height="480" alt="2016-03-25 13.35.16"></a>
+
 Nazareno-Zug.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443695994/in/album-72157666406097825/" title="2016-03-25 13.42.00"><img src="https://farm2.staticflickr.com/1530/25443695994_c6aa3f07a1_z.jpg" width="640" height="480" alt="2016-03-25 13.42.00"></a>
+
 Gestürzter Jesus.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25955921412/in/album-72157666406097825/" title="2016-03-25 13.46.18"><img src="https://farm2.staticflickr.com/1605/25955921412_b460d3cdd3_z.jpg" width="640" height="480" alt="2016-03-25 13.46.18"></a>
+
 Rollstuhl.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775573300/in/album-72157666406097825/" title="2016-03-25 13.48.41-1"><img src="https://farm2.staticflickr.com/1706/25775573300_ae76029c5a_z.jpg" width="480" height="640" alt="2016-03-25 13.48.41-1"></a>
+
 Knabe mit Stange.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022500866/in/album-72157666406097825/" title="2016-03-25 13.52.51"><img src="https://farm2.staticflickr.com/1640/26022500866_558d04cd17_z.jpg" width="480" height="640" alt="2016-03-25 13.52.51"></a>
+
 Prothese.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/26022491876/in/album-72157666406097825/" title="2016-03-25 13.58.09"><img src="https://farm2.staticflickr.com/1696/26022491876_cb17a0887c_z.jpg" width="640" height="480" alt="2016-03-25 13.58.09"></a>
+
 Frauen.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25445824883/in/album-72157666406097825/" title="2016-03-25 13.58.38"><img src="https://farm2.staticflickr.com/1540/25445824883_6931efe236_z.jpg" width="640" height="257" alt="2016-03-25 13.58.38"></a>
+
 Panorama.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25775483030/in/album-72157666406097825/" title="2016-03-25 14.50.01"><img src="https://farm2.staticflickr.com/1718/25775483030_7039102f9f_z.jpg" width="640" height="480" alt="2016-03-25 14.50.01"></a>
+
 San Francisco mit Tauben.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443546634/in/album-72157666406097825/" title="2016-03-25 15.07.19"><img src="https://farm2.staticflickr.com/1652/25443546634_4595dbfb97_z.jpg" width="640" height="480" alt="2016-03-25 15.07.19"></a>
+
 NO MATARÁS SIN IMPORTAR LA ESPECIE.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/63955065@N05/25443525214/in/album-72157666406097825/" title="2016-03-25 19.07.51"><img src="https://farm2.staticflickr.com/1595/25443525214_6e957d8e8e_z.jpg" width="640" height="480" alt="2016-03-25 19.07.51"></a>
+
 Procesión del Silencio.
 
 # Fünfte Postkarte
@@ -231,11 +247,11 @@ Einkauf von:
 
 ### from:	A\*\*\*<br/>
 <!--TODO: improve formatting!?-->
-to:	Johannes \*\*\*<br/>
+to:	Johannes<br/>
 date:	Sat, Apr 2, 2016 at 2:45 AM<br/>
 subject:	Re: Camping in Ecuador
 
->Hi Johannes and Bernard,
+>Hi Johannes and B\*\*\*,
 >
 >Sorry for the late response, I was in the Cuyabeno reserve myself until just now (but with parents, to a lodge). I only camped in Sumaco, I don't know if it is easy possible in Cuyabeno if you don't go to a lodge. I know there are some travelagencies offering trekking with camping in cuyabeno, but you will definitely pay a lot. If you want to find a guide yourself, your spanish should be really good, and I would take a boat to a community in the reserve (you have a couple of them,I don't know how to get there) and ask around locally. But since no other tourists do this, you'll have to be patient and find out a lot for your self, maybe not the best if youdon't have a lot of time. Don't forget as well that the rainy season just begun and you'll be wet, very wet, so make shure to have waterproof bags. I only did a four day trekking with a local guide in Sumaco. Take the bus to pacto sumaco from guagua Sumaco and ask for H***, my awesome guide.He asks about 35 dollars per person and you have to buy the food as well. If the weather is bad I wouldn't go camping but do the trail to climb the sumaco vulcano,its a nice three day hike but you sleep in huts along the way,which is nice during a tropical storm. But really the best advice I can give you  is to go and ask around yourself, and see what is the best option, as the conditions for you will be different as it was for me.
 >
@@ -335,13 +351,13 @@ Einiges Ess- und Trinkbares:
 * plátanos (Kochbananen, die Terminologie ist kompliziert)
 
 <figure style="float:right;clear:right">
-  <a href="https://www.flickr.com/photos/jjmhtp/26120237256/in/album-72157666406097825/" title="Achotillo"><img src="https://farm2.staticflickr.com/1548/26120237256_ebc1c79721_m.jpg" width="240" height="180"  alt="Achotillo"></a>
-  <figcaption>Achotillo</figcaption>
+<a href="https://www.flickr.com/photos/jjmhtp/26120237256/in/album-72157666406097825/" title="Achotillo"><img src="https://farm2.staticflickr.com/1548/26120237256_ebc1c79721_m.jpg" width="240" height="180"  alt="Achotillo"></a>
+<figcaption>Achotillo</figcaption>
 </figure>
 
 <figure style="float:right;clear:right">
-  <a href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" alt="Granadilla"></a>
-  <figcaption>Granadilla</figcaption>
+<a href="https://www.flickr.com/photos/jjmhtp/26053732032/in/album-72157666406097825/" title="Granadilla"><img src="https://farm2.staticflickr.com/1531/26053732032_fbfb57fa0a_m.jpg" width="240" height="180" alt="Granadilla"></a>
+<figcaption>Granadilla</figcaption>
 </figure>
 
 
@@ -378,7 +394,7 @@ Von nun an wünsche ich mir – sofern nicht anders angegenben und Lebensmittel 
 
 
 # Entwurfsteile für die Abhandlung „Grundlegung zu einer Kritik des Güterverkehrs“
-(the following is also important for the dona accepta chapter)
+<!-- the following is also important for the dona accepta chapter which in turn might get integrated here? -->
 
 
 this might be one brick in the fundament of a postanticommunist society
@@ -390,7 +406,8 @@ aus dem gleichen grund gebe ich ihm das ticket.
 er sollte mir auch unabhaengig davon geben.
 es gibt allerdings wieder einen zusammenhand der gestalt, dass die wahrscheinlichkeit, dass ich etwas besser gebrauchen kann als er, dadurch, dass ich etwas abgebe, er etwas annimmt, steigt.
 
-## (vor-)exkurs<!-- hier? -->
+## (vor-)exkurs
+<!-- hier? -->
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Triangle_warning_sign_%28red_and_white%29.svg/200px-Triangle_warning_sign_%28red_and_white%29.svg.png" alt="Granadilla" style="float:right;clear:right">
 
@@ -403,7 +420,8 @@ ich schreibe das aus einer ueberaus privilegierten lage, persoenlich privilegier
 die persoenliche privilegiertheit fuer die gesellschaft in anschlag zu bringen, waere anmassend, die gesellschaftliche fuer die gesellschaft aber nicht.
 vielmehr ist es pflicht eines nicht isolierten (absolut isolierte gibt es nicht, soweit ich es ueberblicke) vernunftbegabten subjektes, seine privilegiertheit gegenueber allem ausserhalb seines grenzgebietes (oder auch innerhalb seiner selbst, so ist oftmals eine hand gegenueber der anderen privilegiert) zu reflektieren und nach der reflexion zu handeln.
 
-der anteil … <!-- TODO -->
+der anteil …
+<!-- TODO -->
 
 ## zur verwendung der sprache
 „possessivpronomina“ sind in der hier verbreiteten verwendung proprietatistisch
