@@ -3,9 +3,10 @@
 
 <!-- cf. https://stackoverflow.com/questions/17097894/markdown-tag-for-document-title -->
 
-Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr.
+Das Folgende ist eine Sammlung von allerhand Müll, darunter Selbstgespräche und flow of consciousness und nun ein paar Postkarten aus der Neuen Welt und anderes mehr. „This is just a page that I publish things to when I'm bored, or put links to bits of information that I need to find again. A bit like a Weblog, but more random.“ [Sean B. Palmer](https://web.archive.org/web/20021220115928/http://infomesh.net/misc/)
 
-Es handelt sich auch um ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist.
+Es ist auch ein [Post-Privacy](https://de.wikipedia.org/wiki/Post-Privacy)-Experiment. Vorbild war auch das – mittlweile mit [irgendeinem Grimme-Preis ausgezeichnete](http://www.zeit.de/kultur/2011-06/grimme-online-award-3) – [Projekt von Zeit Online](http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten). Mit der Zeit soll auch Altes hinzukommen. Ich muss den CMS-Ersatz noch etwas verbessern. Und vor allem bedarf dies der Redaktion, um anderer Privacy nicht zu stören. Dafür muss ich anonymisieren, was mitunter gar nicht so einfach wirklich sauber möglich ist. Zu Post-Privacy andernorts mehr.
+<!-- TODO: link "andernorts" -->
 </header>
 
 <!-- TODO: why this?-->
@@ -479,6 +480,8 @@ Von nun an wünsche ich mir – sofern nicht anders angegenben und Lebensmittel 
 
 *… und warum ich die erste künftig nicht mehr zu zahlen gedenke*
 
+Für das 3. Quartal 2016 habe ich bei der Deutschen Bank 0,02 € Kirchensteuer in der Kapitalertragssteuer oder so gezahlt. Cf. auch [Wikipedia](https://de.wikipedia.org/wiki/Kapitalertragsteuer_(Deutschland)#Kapitalertragsteuer_und_Kirchensteuer). (2016-10-02T04:38)
+
 [folgt] [also vielleicht]
 
 
@@ -527,9 +530,15 @@ ein zuhause, eine heimat sind etwas patriotistisches, oft orts- somit physisch g
 # diarium 2016-09-17T22:40
 ich koennte zu Tönis firmung auch in einem buddhistischen moenchsgewand kommen, das waere noch moeglich, der kimono ist nicht sakral genug, zu profan.
 
+## diarium 2016-10-02T04:30
+* The post-privacy approach does not contradict my aim to defend anonymity against websites and others, it can be combinated … Currently I try to use Firefox with NoScript and Better Privacy, if I am patient enough I use the TorBrowser.
+* Better have something like <https://web.archive.org/web/20030117084743/http://www.aaronsw.com/2002/continuity>
 
+## diarium 2016-10-02T19:30
+ein requium bitte! – vorabend des tags der trauer um den abschied vom deutschen praktizierten sozialismus
 
-
+## diarium 2016-10-06T19
+Ricklin ist tot. [Vgl. hier.](http://www.philosophie.uni-muenchen.de/lehreinheiten/geistesgeschichte/personen/ricklin/index.html)
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
